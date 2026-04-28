@@ -1,0 +1,36 @@
+REMARK FILENAME="protein2_1.pdb"
+REMARK DATE:22-Apr-2026  12:16:33       created by user: enmr
+REMARK VERSION:1.3U
+ATOM      1  N1  SAX B   1       1.066  -0.016  -1.238  1.00 15.00      B    N  
+ATOM      2  HAI SAX B   1       1.758  -0.305  -1.900  1.00 15.00      B    H  
+ATOM      3  C4  SAX B   1       0.117   0.789  -1.560  1.00 15.00      B    C  
+ATOM      4  N2  SAX B   1       0.045   1.239  -2.831  1.00 15.00      B    N  
+ATOM      5  HAD SAX B   1       0.723   0.945  -3.505  1.00 15.00      B    H  
+ATOM      6  H5  SAX B   1      -0.687   1.866  -3.099  1.00 15.00      B    H  
+ATOM      7  N3  SAX B   1      -0.872   1.184  -0.738  1.00 15.00      B    N  
+ATOM      8  C10 SAX B   1      -1.570   2.451  -0.695  1.00 15.00      B    C  
+ATOM      9  C9  SAX B   1      -2.728   2.248   0.273  1.00 15.00      B    C  
+ATOM     10  C8  SAX B   1      -2.225   1.171   1.227  1.00 15.00      B    C  
+ATOM     11  O3  SAX B   1      -3.339   0.490   1.789  1.00 15.00      B    O  
+ATOM     12  HAA SAX B   1      -3.015  -0.218   2.416  1.00 15.00      B    H  
+ATOM     13  O4  SAX B   1      -1.528   1.746   2.311  1.00 15.00      B    O  
+ATOM     14  HAB SAX B   1      -1.208   1.023   2.923  1.00 15.00      B    H  
+ATOM     15  C5  SAX B   1      -1.331   0.271   0.294  1.00 15.00      B    C  
+ATOM     16  N4  SAX B   1      -2.224  -0.833  -0.239  1.00 15.00      B    N  
+ATOM     17  HAJ SAX B   1      -3.031  -0.690  -0.811  1.00 15.00      B    H  
+ATOM     18  C6  SAX B   1      -1.680  -1.916   0.225  1.00 15.00      B    C  
+ATOM     19  N6  SAX B   1      -2.073  -3.166  -0.041  1.00 15.00      B    N  
+ATOM     20  HAF SAX B   1      -2.852  -3.327  -0.647  1.00 15.00      B    H  
+ATOM     21  H8  SAX B   1      -1.588  -3.940   0.366  1.00 15.00      B    H  
+ATOM     22  N5  SAX B   1      -0.634  -1.824   1.071  1.00 15.00      B    N  
+ATOM     23  HAK SAX B   1      -0.225  -2.522   1.659  1.00 15.00      B    H  
+ATOM     24  C7  SAX B   1      -0.143  -0.437   0.998  1.00 15.00      B    C  
+ATOM     25  C3  SAX B   1       1.181  -0.383   0.196  1.00 15.00      B    C  
+ATOM     26  C2  SAX B   1       2.195   0.571   0.864  1.00 15.00      B    C  
+ATOM     27  O2  SAX B   1       3.519   0.392   0.317  1.00 15.00      B    O  
+ATOM     28  C1  SAX B   1       4.169  -0.716   0.737  1.00 15.00      B    C  
+ATOM     29  O1  SAX B   1       3.764  -1.530   1.551  1.00 15.00      B    O  
+ATOM     30  N7  SAX B   1       5.358  -0.825   0.102  1.00 15.00      B    N  
+ATOM     31  H16 SAX B   1       5.632  -0.135  -0.568  1.00 15.00      B    H  
+ATOM     32  H17 SAX B   1       5.963  -1.596   0.302  1.00 15.00      B    H  
+END

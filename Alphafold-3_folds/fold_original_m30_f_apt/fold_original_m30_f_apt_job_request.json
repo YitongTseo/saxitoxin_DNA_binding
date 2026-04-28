@@ -1,0 +1,17 @@
+[{
+ "name": "Original M30-f _Apt_",
+ "modelSeeds": [
+  "484460991"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTGAGGGTCGCATCCCGTGGAAACAGGTTCATTG",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 2
+}
+]

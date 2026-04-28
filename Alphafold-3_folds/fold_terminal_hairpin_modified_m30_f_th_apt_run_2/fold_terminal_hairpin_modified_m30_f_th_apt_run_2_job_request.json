@@ -1,0 +1,17 @@
+[{
+ "name": "Terminal hairpin-modified M30-f _TH-Apt_ run 2",
+ "modelSeeds": [
+  "5494935"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGCGGGTTTTGAGGGTCGCATCCCGTGGAAACAGGTTCATTGTTCCCGCC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 2
+}
+]

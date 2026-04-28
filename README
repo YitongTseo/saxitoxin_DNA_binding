@@ -1,0 +1,21 @@
+## Sequences
+
+Original M30-f (Apt)
+TTGAGGGTCGCATCCCGTGGAAACAGGTTCATTG
+Terminal hairpin-modified M30-f (TH-Apt)
+GGCGGGTTTTGAGGGTCGCATCCCGTGGAAACAGGTTCATTGTTCCCGCC
+4 bases mismatched-modified M30-f (4 MM-TH-Apt)
+GGCGGGTTTTGATTTTCGCATCCCGTGGAAACAGGTTTATTGTTCCCGCC
+Scrambled-modified M30-f (Scr-TH-Apt)
+TTCTCGCAGCCAGATCTGGCCAGGTTGTTACAGCGGAGGTGCTTGGCGTC
+
+## Binding Motifs:
+TCGCATCCCGTGGAA (for original, terminal, 4 base mismatched)
+CTGGCCAGGTTGTT (for scrambled)
+
+## Ligand of Interest:
+Saxitoxin: https://www.rcsb.org/ligand/9SL
+
+## Conditions:
+Buffer: 10 mM Tris, 140 mM NaCl, 2.7 mM KCl, 8.1 mM Na₂HPO₄, and 1.76 mM KH₂PO₄ (pH 7.4).
+Temperature: 25 degrees.

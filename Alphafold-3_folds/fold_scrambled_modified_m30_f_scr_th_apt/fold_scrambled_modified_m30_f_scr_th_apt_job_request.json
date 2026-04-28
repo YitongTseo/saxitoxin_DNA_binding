@@ -1,0 +1,17 @@
+[{
+ "name": "Scrambled-modified M30-f _Scr-TH-Apt_",
+ "modelSeeds": [
+  "1840938544"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "TTCTCGCAGCCAGATCTGGCCAGGTTGTTACAGCGGAGGTGCTTGGCGTC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 2
+}
+]

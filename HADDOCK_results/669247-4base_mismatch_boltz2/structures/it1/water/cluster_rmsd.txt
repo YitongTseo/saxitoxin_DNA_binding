@@ -1,0 +1,11 @@
+#Cluster rmsd sd
+file.nam_clust1    5.612    0.057 
+file.nam_clust2    6.360    0.068 
+file.nam_clust3    5.387    0.084 
+file.nam_clust4    5.653    0.090 
+file.nam_clust5    5.139    0.016 
+file.nam_clust6    5.111    0.038 
+file.nam_clust7    6.603    0.020 
+file.nam_clust8    5.527    0.025 
+file.nam_clust9    5.540    0.036 
+file.nam_clust10    5.561    0.009 

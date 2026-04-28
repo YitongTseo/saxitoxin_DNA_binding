@@ -1,0 +1,4 @@
+#struc Einter Enb Evdw+0.1Eelec Evdw Eelec Eair Ecdih Ecoup Esani Evean Edani
+complex_76w.pdb -826.635 -187.012 -37.6717 -21.0783 -165.934 47.0672 0 0 0 0 0
+complex_200w.pdb -666.252 -165.718 -35.9528 -21.5345 -144.183 117.334 0 0 0 0 0
+complex_35w.pdb -684.056 -205.085 -37.8984 -19.3221 -185.763 83.7477 0 0 0 0 0

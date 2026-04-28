@@ -1,0 +1,128 @@
+! HADDOCK AIR restraints for 1st partner
+!
+assign ( resid 1  and segid A)
+       (
+        ( resid 8  and segid B)
+     or
+        ( resid 9  and segid B)
+     or
+        ( resid 10  and segid B)
+     or
+        ( resid 11  and segid B)
+     or
+        ( resid 12  and segid B)
+     or
+        ( resid 13  and segid B)
+     or
+        ( resid 14  and segid B)
+     or
+        ( resid 15  and segid B)
+     or
+        ( resid 16  and segid B)
+     or
+        ( resid 17  and segid B)
+     or
+        ( resid 18  and segid B)
+     or
+        ( resid 19  and segid B)
+     or
+        ( resid 20  and segid B)
+     or
+        ( resid 21  and segid B)
+     or
+        ( resid 22  and segid B)
+     or
+        ( resid 1  and segid B)
+     or
+        ( resid 2  and segid B)
+     or
+        ( resid 3  and segid B)
+     or
+        ( resid 4  and segid B)
+     or
+        ( resid 5  and segid B)
+     or
+        ( resid 6  and segid B)
+     or
+        ( resid 7  and segid B)
+     or
+        ( resid 23  and segid B)
+       )  2.0 2.0 0.0
+!
+! HADDOCK AIR restraints for 2nd partner
+!
+assign ( resid 8  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 9  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 10  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 11  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 12  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 13  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 14  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 15  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 16  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 17  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 18  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 19  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 20  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 21  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+!
+assign ( resid 22  and segid B)
+       (
+        ( resid 1  and segid A)
+       )  2.0 2.0 0.0
+

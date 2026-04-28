@@ -1,0 +1,17 @@
+[{
+ "name": "4 bases mismatched-modified M30-f _4 MM-TH-Apt_ run 3",
+ "modelSeeds": [
+  "877851983"
+ ],
+ "sequences": [
+  {
+   "dnaSequence": {
+    "sequence": "GGCGGGTTTTGATTTTCGCATCCCGTGGAAACAGGTTTATTGTTCCCGCC",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 2
+}
+]
