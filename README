@@ -12,7 +12,7 @@ TTCTCGCAGCCAGATCTGGCCAGGTTGTTACAGCGGAGGTGCTTGGCGTC
 
 ## Binding Motifs:
 TCGCATCCCGTGGAA (for original, terminal, 4 base mismatched)
-CTGGCCAGGTTGTT (for scrambled)
+CTGGCCAGGTTGTTA (for scrambled)
 
 ## Ligand of Interest:
 Saxitoxin: https://www.rcsb.org/ligand/9SL
