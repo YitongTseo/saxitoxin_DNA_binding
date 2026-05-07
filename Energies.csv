@@ -1,0 +1,792 @@
+,Structure,HADDOCK_Score,Evdw,Eelec,Edesolv,Total_Energy,Run_Name,Run_ID
+0,complex_26w.pdb,-47.0282,10.0921,-334.116,3.1412,-320.88269999999994,Original Boltz2,672620-original_boltz2
+1,complex_25w.pdb,-48.0766,-16.9033,-132.886,5.89664,-143.89266,Original Boltz2,672620-original_boltz2
+2,complex_3w.pdb,-56.722,-14.4976,-152.641,4.46872,-162.66988,Original Boltz2,672620-original_boltz2
+3,complex_14w.pdb,-76.3209,-15.0336,-437.808,4.56682,-448.27477999999996,Original Boltz2,672620-original_boltz2
+4,complex_6w.pdb,-65.3536,-8.42641,-441.109,3.49599,-446.03941999999995,Original Boltz2,672620-original_boltz2
+5,complex_1w.pdb,-48.5817,-7.86018,-338.893,3.88549,-342.86769,Original Boltz2,672620-original_boltz2
+6,complex_11w.pdb,-71.9738,-19.3808,-411.439,4.24004,-426.57976,Original Boltz2,672620-original_boltz2
+7,complex_7w.pdb,-65.261,-14.4947,-404.897,3.93131,-415.46039,Original Boltz2,672620-original_boltz2
+8,complex_4w.pdb,-57.6949,1.57585,-452.525,2.41611,-448.53303999999997,Original Boltz2,672620-original_boltz2
+9,complex_28w.pdb,-47.0114,-16.0218,-138.671,5.42226,-149.27053999999998,Original Boltz2,672620-original_boltz2
+10,complex_24w.pdb,-52.1272,-14.09,-342.004,6.23652,-349.85748,Original Boltz2,672620-original_boltz2
+11,complex_39w.pdb,-58.0296,-9.71463,-295.174,4.35495,-300.53368,Original Boltz2,672620-original_boltz2
+12,complex_55w.pdb,-58.8119,-13.088,-151.176,7.09157,-157.17243,Original Boltz2,672620-original_boltz2
+13,complex_10w.pdb,-40.813,-15.9197,-129.153,3.32052,-141.75218,Original Boltz2,672620-original_boltz2
+14,complex_21w.pdb,-57.9046,-15.8112,-377.51,5.41041,-387.91078999999996,Original Boltz2,672620-original_boltz2
+15,complex_33w.pdb,-54.6269,-10.4665,-266.662,5.31259,-271.81591,Original Boltz2,672620-original_boltz2
+16,complex_22w.pdb,-48.5557,-6.14254,-390.937,4.0733,-393.00624,Original Boltz2,672620-original_boltz2
+17,complex_19w.pdb,-62.0426,-12.8466,-366.494,4.62372,-374.71688000000006,Original Boltz2,672620-original_boltz2
+18,complex_76w.pdb,-48.4902,-11.8847,-163.364,5.0865,-170.1622,Original Boltz2,672620-original_boltz2
+19,complex_86w.pdb,-25.6374,-11.8117,-63.3685,1.41846,-73.76174,Original Boltz2,672620-original_boltz2
+20,complex_142w.pdb,-56.5814,-12.887,-413.659,6.53649,-420.00951,Original Boltz2,672620-original_boltz2
+21,complex_16w.pdb,-51.3212,1.74007,-437.887,4.39494,-431.75199,Original Boltz2,672620-original_boltz2
+22,complex_74w.pdb,-43.4981,-19.9648,-185.571,5.42773,-200.10807,Original Boltz2,672620-original_boltz2
+23,complex_43w.pdb,-47.0108,-14.3879,-217.311,4.97706,-226.72184000000001,Original Boltz2,672620-original_boltz2
+24,complex_134w.pdb,-45.1268,-17.5401,-152.074,4.92444,-164.68966,Original Boltz2,672620-original_boltz2
+25,complex_129w.pdb,-51.1988,-13.6575,-247.192,7.52207,-253.32743000000002,Original Boltz2,672620-original_boltz2
+26,complex_38w.pdb,-41.9966,-9.00558,-263.599,2.86491,-269.73967,Original Boltz2,672620-original_boltz2
+27,complex_92w.pdb,-50.7626,-12.1328,-148.84,5.35369,-155.61911,Original Boltz2,672620-original_boltz2
+28,complex_89w.pdb,-67.4009,-13.9377,-274.609,6.23278,-282.31392,Original Boltz2,672620-original_boltz2
+29,complex_42w.pdb,-53.6846,-12.8435,-264.188,5.82836,-271.20314,Original Boltz2,672620-original_boltz2
+30,complex_52w.pdb,-46.2208,-10.3917,-132.856,6.11474,-137.13296,Original Boltz2,672620-original_boltz2
+31,complex_56w.pdb,-59.5067,-13.1974,-260.708,4.52344,-269.38196000000005,Original Boltz2,672620-original_boltz2
+32,complex_47w.pdb,-39.3752,-11.1364,-176.649,3.54525,-184.24015,Original Boltz2,672620-original_boltz2
+33,complex_160w.pdb,-53.8218,-15.4188,-208.102,7.08794,-216.43286,Original Boltz2,672620-original_boltz2
+34,complex_44w.pdb,-53.1294,-12.2421,-180.494,4.12863,-188.60747,Original Boltz2,672620-original_boltz2
+35,complex_192w.pdb,-44.8898,-18.0875,-230.337,5.62557,-242.79892999999998,Original Boltz2,672620-original_boltz2
+36,complex_75w.pdb,-60.7935,-13.9609,-321.608,5.16599,-330.40290999999996,Original Boltz2,672620-original_boltz2
+37,complex_133w.pdb,-48.8543,-0.296369,-390.91,4.79405,-386.412319,Original Boltz2,672620-original_boltz2
+38,complex_106w.pdb,-44.5395,-11.6253,-74.5842,5.67205,-80.53744999999999,Original Boltz2,672620-original_boltz2
+39,complex_108w.pdb,-42.8576,-14.9961,-280.453,5.59315,-289.85595,Original Boltz2,672620-original_boltz2
+40,complex_148w.pdb,-44.5754,-12.9462,-76.8037,6.00553,-83.74437,Original Boltz2,672620-original_boltz2
+41,complex_60w.pdb,-55.7466,-10.3249,-370.895,6.4124,-374.8075,Original Boltz2,672620-original_boltz2
+42,complex_95w.pdb,-49.2613,-14.7946,-154.53,6.15621,-163.16839000000002,Original Boltz2,672620-original_boltz2
+43,complex_113w.pdb,-40.4463,-11.2016,-206.915,4.54915,-213.56745,Original Boltz2,672620-original_boltz2
+44,complex_169w.pdb,-47.1291,-14.8491,-193.763,6.72291,-201.88918999999999,Original Boltz2,672620-original_boltz2
+45,complex_12w.pdb,-70.1037,-12.0906,-300.536,4.03149,-308.59511,Original Boltz2,672620-original_boltz2
+46,complex_140w.pdb,-50.4245,-14.9859,-220.214,5.73024,-229.46966,Original Boltz2,672620-original_boltz2
+47,complex_15w.pdb,-57.2839,-11.1971,-277.065,6.12745,-282.13464999999997,Original Boltz2,672620-original_boltz2
+48,complex_9w.pdb,-59.1199,-7.01437,-372.864,5.47712,-374.40124999999995,Original Boltz2,672620-original_boltz2
+49,complex_27w.pdb,-57.2752,-7.26032,-329.061,4.40248,-331.91883999999993,Original Boltz2,672620-original_boltz2
+50,complex_30w.pdb,-37.0461,-9.99282,-56.9396,3.13113,-63.801289999999995,Original Boltz2,672620-original_boltz2
+51,complex_193w.pdb,-62.2511,-16.4675,-303.875,5.04112,-315.30138,Original Boltz2,672620-original_boltz2
+52,complex_18w.pdb,-70.7096,-9.71951,-438.339,3.31297,-444.74554,Original Boltz2,672620-original_boltz2
+53,complex_136w.pdb,-52.6863,-14.1629,-322.564,6.83515,-329.89175,Original Boltz2,672620-original_boltz2
+54,complex_50w.pdb,-44.7959,-13.8239,-281.821,3.4961,-292.1488,Original Boltz2,672620-original_boltz2
+55,complex_184w.pdb,-57.1186,-22.4566,-159.984,5.01665,-177.42395000000002,Original Boltz2,672620-original_boltz2
+56,complex_48w.pdb,-53.2927,-6.79456,-229.036,4.45629,-231.37427,Original Boltz2,672620-original_boltz2
+57,complex_70w.pdb,-56.0242,-8.92698,-367.721,4.67709,-371.97089,Original Boltz2,672620-original_boltz2
+58,complex_188w.pdb,-55.0588,-20.803,-251.161,4.87284,-267.09116,Original Boltz2,672620-original_boltz2
+59,complex_35w.pdb,-39.4587,-21.7932,-165.415,4.23419,-182.97400999999996,Original Boltz2,672620-original_boltz2
+60,complex_40w.pdb,-34.4954,-0.672651,-241.644,1.82935,-240.487301,Original Boltz2,672620-original_boltz2
+61,complex_105w.pdb,-56.6206,-18.4408,-314.287,6.10584,-326.62196,Original Boltz2,672620-original_boltz2
+62,complex_63w.pdb,-52.7654,-14.967,-155.996,3.27276,-167.69024000000002,Original Boltz2,672620-original_boltz2
+63,complex_31w.pdb,-44.1778,-11.8561,-52.4593,1.59759,-62.71781,Original Boltz2,672620-original_boltz2
+64,complex_29w.pdb,-55.8498,-4.8897,-243.462,3.65683,-244.69486999999998,Original Boltz2,672620-original_boltz2
+65,complex_94w.pdb,-72.6574,-12.6251,-423.703,4.88219,-431.44590999999997,Original Boltz2,672620-original_boltz2
+66,complex_170w.pdb,-33.91,-15.5008,-231.974,5.09109,-242.38370999999998,Original Boltz2,672620-original_boltz2
+67,complex_146w.pdb,-51.5142,-11.8062,-286.928,6.47625,-292.25795,Original Boltz2,672620-original_boltz2
+68,complex_179w.pdb,-52.594,-9.71641,-334.53,4.57062,-339.67578999999995,Original Boltz2,672620-original_boltz2
+69,complex_100w.pdb,-59.8658,-7.52171,-422.132,4.46132,-425.19239,Original Boltz2,672620-original_boltz2
+70,complex_87w.pdb,-58.0645,-14.922,-337.207,5.04389,-347.08511000000004,Original Boltz2,672620-original_boltz2
+71,complex_78w.pdb,-49.212,-15.3044,-165.885,2.80426,-178.38513999999998,Original Boltz2,672620-original_boltz2
+72,complex_49w.pdb,-56.992,-12.7889,-315.134,4.75509,-323.16781000000003,Original Boltz2,672620-original_boltz2
+73,complex_46w.pdb,-42.2559,-12.8265,-23.4453,3.90889,-32.36291,Original Boltz2,672620-original_boltz2
+74,complex_69w.pdb,-53.8134,-4.11795,-350.135,4.23329,-350.01966,Original Boltz2,672620-original_boltz2
+75,complex_85w.pdb,-55.616,-2.99224,-385.787,2.75173,-386.02750999999995,Original Boltz2,672620-original_boltz2
+76,complex_68w.pdb,-63.678,-16.5427,-340.17,4.88753,-351.82517,Original Boltz2,672620-original_boltz2
+77,complex_127w.pdb,-54.1027,-15.9759,-312.248,5.54297,-322.68093,Original Boltz2,672620-original_boltz2
+78,complex_37w.pdb,-58.467,-12.6767,-282.65,2.92696,-292.39973999999995,Original Boltz2,672620-original_boltz2
+79,complex_61w.pdb,-65.4138,-18.9616,-289.477,4.41965,-304.01894999999996,Original Boltz2,672620-original_boltz2
+80,complex_8w.pdb,-43.0174,-16.3185,-129.425,3.85458,-141.88892,Original Boltz2,672620-original_boltz2
+81,complex_72w.pdb,-36.4094,-9.3778,-280.941,6.43722,-283.88157999999993,Original Boltz2,672620-original_boltz2
+82,complex_84w.pdb,-47.7956,-13.8564,-278.605,3.30665,-289.15475000000004,Original Boltz2,672620-original_boltz2
+83,complex_112w.pdb,-36.7886,-12.4711,-269.198,6.63533,-275.03376999999995,Original Boltz2,672620-original_boltz2
+84,complex_157w.pdb,-44.8949,-15.6447,-281.833,5.15224,-292.32546,Original Boltz2,672620-original_boltz2
+85,complex_71w.pdb,-50.0722,-18.1866,-302.538,6.59542,-314.12918,Original Boltz2,672620-original_boltz2
+86,complex_41w.pdb,-47.5224,-19.4396,-146.591,4.14728,-161.88332,Original Boltz2,672620-original_boltz2
+87,complex_101w.pdb,-54.4551,5.51314,-489.823,3.78881,-480.52104999999995,Original Boltz2,672620-original_boltz2
+88,complex_121w.pdb,-64.2228,-15.1606,-367.326,4.70785,-377.77875,Original Boltz2,672620-original_boltz2
+89,complex_77w.pdb,-44.3734,-10.3681,-203.883,5.92832,-208.32278,Original Boltz2,672620-original_boltz2
+90,complex_104w.pdb,-45.2712,-17.3905,-107.255,1.95676,-122.68874,Original Boltz2,672620-original_boltz2
+91,complex_132w.pdb,-55.7166,-16.6922,-348.93,5.69339,-359.92881,Original Boltz2,672620-original_boltz2
+92,complex_151w.pdb,-53.3443,-0.793371,-365.696,4.23909,-362.25028100000003,Original Boltz2,672620-original_boltz2
+93,complex_51w.pdb,-42.0768,-14.464,-284.576,5.85175,-293.18825000000004,Original Boltz2,672620-original_boltz2
+94,complex_64w.pdb,-52.2813,-16.3587,-314.354,4.84407,-325.86863,Original Boltz2,672620-original_boltz2
+95,complex_13w.pdb,-39.9511,-14.2772,-220.312,4.00604,-230.58316,Original Boltz2,672620-original_boltz2
+96,complex_115w.pdb,-57.5251,-14.6811,-416.514,6.23885,-424.95625,Original Boltz2,672620-original_boltz2
+97,complex_34w.pdb,-63.3693,-10.2904,-398.446,4.11387,-404.62253,Original Boltz2,672620-original_boltz2
+98,complex_139w.pdb,-41.792,-12.1887,-304.032,6.32018,-309.90052,Original Boltz2,672620-original_boltz2
+99,complex_118w.pdb,-40.4856,-19.1815,-192.965,5.02844,-207.11806,Original Boltz2,672620-original_boltz2
+100,complex_165w.pdb,-42.9233,-16.1891,-169.185,4.79986,-180.57424,Original Boltz2,672620-original_boltz2
+101,complex_125w.pdb,-30.59,-12.1423,-98.1885,3.84798,-106.48282,Original Boltz2,672620-original_boltz2
+102,complex_186w.pdb,-38.4962,-7.6564,-403.932,4.86959,-406.71881,Original Boltz2,672620-original_boltz2
+103,complex_83w.pdb,-42.7075,-5.88552,-298.928,5.83912,-298.9744,Original Boltz2,672620-original_boltz2
+104,complex_109w.pdb,-26.8968,-10.5142,-191.129,6.08271,-195.56049,Original Boltz2,672620-original_boltz2
+105,complex_99w.pdb,-54.9873,-13.9887,-273.868,4.9991,-282.8576,Original Boltz2,672620-original_boltz2
+106,complex_182w.pdb,-62.1258,-12.7836,-308.203,5.661,-315.32559999999995,Original Boltz2,672620-original_boltz2
+107,complex_67w.pdb,-49.2197,-12.3368,-65.4195,2.97995,-74.77635,Original Boltz2,672620-original_boltz2
+108,complex_138w.pdb,-56.393,-12.4199,-375.207,5.00752,-382.61938,Original Boltz2,672620-original_boltz2
+109,complex_187w.pdb,-35.1483,-8.93529,-285.789,4.87002,-289.85427,Original Boltz2,672620-original_boltz2
+110,complex_162w.pdb,-40.6677,-12.8811,-261.661,5.5447,-268.9974,Original Boltz2,672620-original_boltz2
+111,complex_143w.pdb,-49.6439,-14.1967,-281.716,6.90993,-289.00277000000006,Original Boltz2,672620-original_boltz2
+112,complex_178w.pdb,-38.8931,-12.7513,-200.159,4.36641,-208.54389,Original Boltz2,672620-original_boltz2
+113,complex_126w.pdb,-35.9291,-16.814,-151.918,5.78601,-162.94599,Original Boltz2,672620-original_boltz2
+114,complex_158w.pdb,-51.6387,-6.18887,-263.704,5.77474,-264.11813,Original Boltz2,672620-original_boltz2
+115,complex_91w.pdb,-45.094,-15.8253,-238.319,3.49425,-250.65005,Original Boltz2,672620-original_boltz2
+116,complex_88w.pdb,-57.1816,-10.4693,-422.135,4.96807,-427.63622999999995,Original Boltz2,672620-original_boltz2
+117,complex_166w.pdb,-53.0405,-11.1247,-233.805,5.92649,-239.00321,Original Boltz2,672620-original_boltz2
+118,complex_141w.pdb,-41.0408,-12.3544,-189.113,4.34186,-197.12554,Original Boltz2,672620-original_boltz2
+119,complex_159w.pdb,-47.5202,-13.8909,-315.569,5.74441,-323.71549,Original Boltz2,672620-original_boltz2
+120,complex_79w.pdb,-54.3724,-16.8704,-346.75,3.18733,-360.43307000000004,Original Boltz2,672620-original_boltz2
+121,complex_130w.pdb,-40.5796,-13.1603,-250.386,4.42354,-259.12275999999997,Original Boltz2,672620-original_boltz2
+122,complex_161w.pdb,-47.3888,-15.0846,-132.971,4.84933,-143.20627,Original Boltz2,672620-original_boltz2
+123,complex_45w.pdb,-41.2674,-12.2096,-282.768,2.54531,-292.43229,Original Boltz2,672620-original_boltz2
+124,complex_122w.pdb,-56.4121,-6.2396,-377.387,4.29973,-379.32687,Original Boltz2,672620-original_boltz2
+125,complex_131w.pdb,-35.9447,-13.1609,-308.34,6.76027,-314.74063,Original Boltz2,672620-original_boltz2
+126,complex_80w.pdb,-49.95,-8.88461,-234.081,3.52113,-239.44448,Original Boltz2,672620-original_boltz2
+127,complex_154w.pdb,-49.7184,-10.6237,-227.933,4.15324,-234.40345999999997,Original Boltz2,672620-original_boltz2
+128,complex_150w.pdb,-32.4926,-17.3158,-113.476,4.39606,-126.39573999999999,Original Boltz2,672620-original_boltz2
+129,complex_190w.pdb,-43.8304,-16.0725,-107.886,5.56008,-118.39842,Original Boltz2,672620-original_boltz2
+130,complex_144w.pdb,-44.798,-18.4454,-177.657,4.31263,-191.78977,Original Boltz2,672620-original_boltz2
+131,complex_181w.pdb,-28.7796,-7.39161,-176.884,4.07067,-180.20493999999997,Original Boltz2,672620-original_boltz2
+132,complex_20w.pdb,-47.6632,-7.94637,-255.724,2.2505,-261.41987,Original Boltz2,672620-original_boltz2
+133,complex_177w.pdb,-44.4174,-8.10339,-314.871,5.34693,-317.62746,Original Boltz2,672620-original_boltz2
+134,complex_174w.pdb,-39.3218,-14.8757,-118.887,4.73727,-129.02543,Original Boltz2,672620-original_boltz2
+135,complex_199w.pdb,-37.8435,-14.6684,-166.11,4.76039,-176.01801,Original Boltz2,672620-original_boltz2
+136,complex_145w.pdb,-38.8304,-11.2927,-150.22,2.51561,-158.99709,Original Boltz2,672620-original_boltz2
+137,complex_149w.pdb,-35.7955,-20.0115,-219.851,5.79582,-234.06668000000002,Original Boltz2,672620-original_boltz2
+138,complex_176w.pdb,-52.2092,-14.7604,-375.979,6.49094,-384.24845999999997,Original Boltz2,672620-original_boltz2
+139,complex_152w.pdb,-45.707,-11.0881,-289.235,7.20881,-293.11429,Original Boltz2,672620-original_boltz2
+140,complex_102w.pdb,-58.6109,-7.32087,-441.983,3.52601,-445.77786000000003,Original Boltz2,672620-original_boltz2
+141,complex_191w.pdb,-41.6579,-12.6408,-104.806,5.29378,-112.15302,Original Boltz2,672620-original_boltz2
+142,complex_167w.pdb,-51.6522,-17.0119,-195.999,7.12787,-205.88303,Original Boltz2,672620-original_boltz2
+143,complex_119w.pdb,-43.1654,-15.9246,-299.953,5.9641,-309.9135,Original Boltz2,672620-original_boltz2
+144,complex_171w.pdb,-49.4854,-7.45696,-373.976,5.48502,-375.94793999999996,Original Boltz2,672620-original_boltz2
+145,complex_53w.pdb,-19.0905,-7.01792,-133.853,3.62485,-137.24607,Original Boltz2,672620-original_boltz2
+146,complex_81w.pdb,-50.1588,-2.34704,-318.555,1.53067,-319.37137,Original Boltz2,672620-original_boltz2
+147,complex_103w.pdb,-62.1735,-8.92576,-258.637,4.8738,-262.68896,Original Boltz2,672620-original_boltz2
+148,complex_114w.pdb,-64.711,-10.6216,-469.825,3.88971,-476.55689,Original Boltz2,672620-original_boltz2
+149,complex_153w.pdb,-45.7563,-1.33328,-443.289,4.4669,-440.15538,Original Boltz2,672620-original_boltz2
+150,complex_163w.pdb,-42.6922,-7.89251,-271.478,5.95014,-273.42037000000005,Original Boltz2,672620-original_boltz2
+151,complex_107w.pdb,-51.5426,-13.8337,-344.535,6.56175,-351.80695000000003,Original Boltz2,672620-original_boltz2
+152,complex_32w.pdb,-54.1166,-20.4666,-209.889,2.68786,-227.66774,Original Boltz2,672620-original_boltz2
+153,complex_173w.pdb,-53.1805,-16.2485,-344.558,6.27939,-354.52711,Original Boltz2,672620-original_boltz2
+154,complex_156w.pdb,-56.6716,-1.62289,-318.792,4.26433,-316.15056,Original Boltz2,672620-original_boltz2
+155,complex_66w.pdb,-34.6856,-10.1784,-209.369,4.2959,-215.25150000000002,Original Boltz2,672620-original_boltz2
+156,complex_164w.pdb,-35.3478,-8.32087,-336.45,5.70828,-339.06259,Original Boltz2,672620-original_boltz2
+157,complex_124w.pdb,-47.5431,-1.7521,-367.217,5.26598,-363.70311999999996,Original Boltz2,672620-original_boltz2
+158,complex_198w.pdb,-47.591,-24.4798,-330.836,4.76583,-350.54997000000003,Original Boltz2,672620-original_boltz2
+159,complex_128w.pdb,-35.1163,-13.1809,-332.439,6.31101,-339.30889,Original Boltz2,672620-original_boltz2
+160,complex_197w.pdb,-36.8055,-12.0358,-204.16,3.75733,-212.43847,Original Boltz2,672620-original_boltz2
+161,complex_65w.pdb,-45.4901,-19.4803,-128.115,2.18427,-145.41103,Original Boltz2,672620-original_boltz2
+162,complex_116w.pdb,-55.4392,-13.3496,-377.982,5.71802,-385.61358,Original Boltz2,672620-original_boltz2
+163,complex_98w.pdb,-37.8308,-14.6503,-256.446,6.25138,-264.84492000000006,Original Boltz2,672620-original_boltz2
+164,complex_54w.pdb,-40.2637,-4.47279,-430.718,5.08913,-430.10166,Original Boltz2,672620-original_boltz2
+165,complex_117w.pdb,-56.6466,-11.3666,-362.555,6.34497,-367.57663,Original Boltz2,672620-original_boltz2
+166,complex_195w.pdb,-42.3911,-16.1809,-181.91,5.39551,-192.69539,Original Boltz2,672620-original_boltz2
+167,complex_120w.pdb,-39.6755,-12.8106,-360.234,5.91839,-367.12621,Original Boltz2,672620-original_boltz2
+168,complex_59w.pdb,-49.0581,-2.75987,-377.208,5.16376,-374.80411,Original Boltz2,672620-original_boltz2
+169,complex_73w.pdb,-44.7043,-11.3679,-274.981,3.25276,-283.09614,Original Boltz2,672620-original_boltz2
+170,complex_111w.pdb,-57.1824,-15.3099,-349.491,6.19809,-358.60281000000003,Original Boltz2,672620-original_boltz2
+171,complex_183w.pdb,-50.1814,-1.44835,-439.708,5.52851,-435.62784000000005,Original Boltz2,672620-original_boltz2
+172,complex_185w.pdb,-33.047,-5.17266,-54.9123,4.13035,-55.95461,Original Boltz2,672620-original_boltz2
+173,complex_200w.pdb,-39.1125,-15.5705,-168.678,3.93929,-180.30921,Original Boltz2,672620-original_boltz2
+174,complex_110w.pdb,-45.0862,-18.441,-175.788,3.04063,-191.18837000000002,Original Boltz2,672620-original_boltz2
+175,complex_147w.pdb,-46.1887,-15.172,-248.085,4.12334,-259.13366,Original Boltz2,672620-original_boltz2
+176,complex_96w.pdb,-42.9928,-8.91477,-334.65,5.0238,-338.54096999999996,Original Boltz2,672620-original_boltz2
+177,complex_175w.pdb,-41.8212,-6.39781,-319.846,4.18474,-322.05907,Original Boltz2,672620-original_boltz2
+178,complex_135w.pdb,-47.2801,-13.7598,-374.745,7.01705,-381.48775,Original Boltz2,672620-original_boltz2
+179,complex_180w.pdb,-46.4146,-4.34332,-271.534,2.74151,-273.13581,Original Boltz2,672620-original_boltz2
+180,complex_137w.pdb,-42.7316,-10.4384,-312.04,6.05712,-316.42128,Original Boltz2,672620-original_boltz2
+181,complex_196w.pdb,-30.0031,-12.7482,-125.557,4.75099,-133.55421,Original Boltz2,672620-original_boltz2
+182,complex_168w.pdb,-29.8771,-23.1804,-187.597,3.74914,-207.02826,Original Boltz2,672620-original_boltz2
+183,complex_97w.pdb,-43.4061,-10.8461,-347.429,6.16923,-352.1058699999999,Original Boltz2,672620-original_boltz2
+184,complex_93w.pdb,-41.8652,-15.4551,-376.183,6.49126,-385.14684,Original Boltz2,672620-original_boltz2
+185,complex_189w.pdb,-25.7127,-11.1024,-274.803,5.53295,-280.37244999999996,Original Boltz2,672620-original_boltz2
+186,complex_155w.pdb,-57.3249,-15.0802,-371.971,5.82438,-381.22682,Original Boltz2,672620-original_boltz2
+187,complex_123w.pdb,-37.978,-11.4569,-273.545,2.83145,-282.17045,Original Boltz2,672620-original_boltz2
+188,complex_172w.pdb,-44.1479,-11.9963,-293.516,6.50996,-299.00234000000006,Original Boltz2,672620-original_boltz2
+189,complex_62w.pdb,576.7166,0.0,0.0,0.585645,0.585645,Original Boltz2,672620-original_boltz2
+190,complex_36w.pdb,642.0039,0.0,0.0,-0.382113,-0.382113,Original Boltz2,672620-original_boltz2
+191,complex_1w.pdb,-85.0841,-5.68264,-473.249,5.32262,-473.60902000000004,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+192,complex_36w.pdb,-47.3561,-18.2991,-163.662,4.18224,-177.77886,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+193,complex_90w.pdb,-56.0618,-15.3549,-181.402,4.58885,-192.16804999999997,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+194,complex_10w.pdb,-58.5585,-17.3007,-227.087,4.69207,-239.69563,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+195,complex_96w.pdb,-46.7096,-9.11691,-97.8665,4.37143,-102.61198,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+196,complex_112w.pdb,-35.8729,-17.5076,-79.222,3.23987,-93.48973,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+197,complex_17w.pdb,-44.1563,-14.3202,-203.842,2.87682,-215.28538,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+198,complex_197w.pdb,-47.3486,-14.062,-172.753,4.83985,-181.97514999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+199,complex_91w.pdb,-48.0948,-9.47971,-23.6882,2.14486,-31.023049999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+200,complex_105w.pdb,-51.7221,-13.6383,-133.084,2.66535,-144.05695,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+201,complex_192w.pdb,-55.7481,-16.6693,-270.741,6.1423,-281.26800000000003,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+202,complex_33w.pdb,-48.7245,-12.8401,-96.9246,4.61888,-105.14582,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+203,complex_15w.pdb,-57.2494,-13.9486,-76.5914,2.95675,-87.58324999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+204,complex_152w.pdb,-65.6241,-15.7863,-152.285,4.35491,-163.71639000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+205,complex_3w.pdb,-49.8096,3.59793,-273.663,2.31291,-267.75216,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+206,complex_77w.pdb,-41.3908,-12.2651,-96.9191,4.28312,-104.90108000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+207,complex_139w.pdb,-47.9166,-14.4762,-137.17,4.02741,-147.61879,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+208,complex_5w.pdb,-49.2021,-9.80606,-197.373,3.19358,-203.98548,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+209,complex_142w.pdb,-40.8127,-9.96351,-148.741,5.10171,-153.60280000000003,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+210,complex_60w.pdb,-50.4282,-8.15397,-191.88,3.71648,-196.31749,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+211,complex_65w.pdb,-51.1531,-10.4311,-80.4602,3.68517,-87.20613,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+212,complex_122w.pdb,-60.2697,-11.9736,-185.267,3.20862,-194.03198,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+213,complex_43w.pdb,-38.8202,-10.573,-174.463,5.12011,-179.91589,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+214,complex_151w.pdb,-58.3951,-17.4037,-180.405,4.61951,-193.18919,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+215,complex_2w.pdb,-63.8806,-1.52843,-307.825,3.42888,-305.92455,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+216,complex_14w.pdb,-55.0609,-13.3626,-221.194,3.77607,-230.78053,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+217,complex_46w.pdb,-43.7621,-6.18884,-261.64,4.68989,-263.13895,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+218,complex_39w.pdb,-45.9797,-11.7849,-161.374,3.02745,-170.13145,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+219,complex_167w.pdb,-45.8342,-8.74746,-65.0066,3.21357,-70.54049,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+220,complex_103w.pdb,-51.572,-10.5759,-164.698,2.78918,-172.48472,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+221,complex_193w.pdb,-50.0277,-6.73849,-293.04,3.18078,-296.59771,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+222,complex_7w.pdb,-55.8803,-18.7543,-144.096,4.04426,-158.80604,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+223,complex_93w.pdb,-48.5097,-12.9008,-162.474,3.3582,-172.01659999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+224,complex_141w.pdb,-48.4019,-16.105,-136.496,2.54171,-150.05929,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+225,complex_64w.pdb,-60.207,-11.0351,-280.626,4.84731,-286.81379,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+226,complex_50w.pdb,-58.899,-15.4067,-176.058,4.65506,-186.80964,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+227,complex_159w.pdb,-52.5092,-9.94952,-356.976,4.05608,-362.86944,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+228,complex_11w.pdb,-69.35,-16.2156,-350.604,5.04573,-361.77387,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+229,complex_85w.pdb,-60.8412,-14.9398,-266.365,4.25775,-277.04705,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+230,complex_66w.pdb,-49.5836,-13.252,-98.1226,2.27585,-109.09875,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+231,complex_102w.pdb,-64.3057,-10.8765,-149.222,2.27072,-157.82778,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+232,complex_4w.pdb,-44.0164,-12.8511,-149.136,5.24934,-156.73776,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+233,complex_78w.pdb,-51.5536,-14.6637,-230.036,3.70663,-240.99307000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+234,complex_57w.pdb,-58.6435,0.397056,-358.817,4.31803,-354.10191399999997,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+235,complex_172w.pdb,-39.1848,-13.6569,-67.7778,4.04631,-77.38838999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+236,complex_135w.pdb,-46.4782,-14.658,-132.597,4.97001,-142.28499,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+237,complex_120w.pdb,-54.4368,-13.4184,-132.186,4.86951,-140.73489,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+238,complex_117w.pdb,-54.0952,-12.5164,-115.382,4.35752,-123.54088000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+239,complex_97w.pdb,-45.414,-10.884,-119.196,5.26846,-124.81153999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+240,complex_106w.pdb,-57.1068,-13.1484,-213.8,3.79125,-223.15715000000003,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+241,complex_198w.pdb,-49.8464,-9.86696,-115.843,4.60694,-121.10302000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+242,complex_32w.pdb,-41.138,-4.49421,-185.83,5.34775,-184.97646000000003,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+243,complex_48w.pdb,-68.3836,5.50654,-531.872,3.24228,-523.1231799999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+244,complex_147w.pdb,-35.6404,-16.1262,-90.0953,3.28928,-102.93221999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+245,complex_186w.pdb,-32.5526,-13.037,-114.662,4.61943,-123.07957000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+246,complex_123w.pdb,-52.7034,-13.1121,-144.962,6.40197,-151.67212999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+247,complex_19w.pdb,-39.9409,3.74593,-285.736,2.63516,-279.35491,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+248,complex_84w.pdb,-56.9297,-15.9031,-237.121,1.90591,-251.11819,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+249,complex_52w.pdb,-37.3469,-11.5019,-180.345,4.50818,-187.33872,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+250,complex_30w.pdb,-42.275,2.01892,-272.502,2.6317,-267.85138,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+251,complex_55w.pdb,-58.4354,-0.670952,-205.148,5.92746,-199.891492,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+252,complex_86w.pdb,-55.1512,-13.6274,-260.563,4.71326,-269.47714,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+253,complex_116w.pdb,-33.6698,-11.9863,-18.804,5.04844,-25.74186,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+254,complex_9w.pdb,-61.0183,-1.83582,-357.495,3.3808,-355.95002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+255,complex_26w.pdb,-64.0834,-11.664,-311.327,4.12698,-318.86402,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+256,complex_89w.pdb,-66.6163,-13.7588,-239.838,3.83936,-249.75744,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+257,complex_163w.pdb,-53.5603,-16.4504,-168.746,4.77371,-180.42269000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+258,complex_8w.pdb,-70.5997,-5.0864,-339.222,3.77213,-340.53627,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+259,complex_6w.pdb,-51.3658,-3.39022,-370.39,3.75888,-370.02134,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+260,complex_181w.pdb,-40.2366,-13.4548,-159.024,4.25086,-168.22794000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+261,complex_161w.pdb,-46.395,-15.0095,-203.078,4.97792,-213.10958,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+262,complex_109w.pdb,-39.1893,-13.5361,-113.675,6.02811,-121.18299,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+263,complex_108w.pdb,-58.8123,-5.29202,-491.401,4.70666,-491.98636,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+264,complex_94w.pdb,-42.7449,-14.3746,-186.665,4.09533,-196.94427,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+265,complex_92w.pdb,-37.5254,-14.8871,-167.814,3.70199,-178.99911,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+266,complex_87w.pdb,-50.3187,-17.8132,-160.225,3.84538,-174.19281999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+267,complex_184w.pdb,-63.0633,-13.8115,-193.154,3.01127,-203.95423,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+268,complex_67w.pdb,-55.152,-10.4633,-388.142,5.53428,-393.07102,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+269,complex_101w.pdb,-46.7596,-13.8159,-205.15,2.84709,-216.11881,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+270,complex_38w.pdb,-64.3472,-20.6862,-147.092,3.22122,-164.55698000000004,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+271,complex_194w.pdb,-55.793,-12.3928,-94.0809,4.59902,-101.87468,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+272,complex_71w.pdb,-30.5285,-12.3808,-60.3371,4.01423,-68.70367,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+273,complex_98w.pdb,-54.991,-11.0688,-177.35,4.60378,-183.81502,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+274,complex_51w.pdb,-34.5923,-0.621067,-253.336,4.13118,-249.82588700000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+275,complex_81w.pdb,-43.4134,-16.2583,-72.4772,3.89653,-84.83897,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+276,complex_83w.pdb,-42.8221,-13.9648,-89.5414,3.6437,-99.8625,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+277,complex_174w.pdb,-52.3322,-13.8927,-188.224,1.8485,-200.26819999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+278,complex_190w.pdb,-43.1628,-13.983,-209.401,5.23391,-218.15009,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+279,complex_129w.pdb,-48.1408,-11.2291,-52.8046,3.23331,-60.80038999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+280,complex_27w.pdb,-50.1317,-17.1007,-96.9645,4.12231,-109.94289,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+281,complex_49w.pdb,-51.3576,-15.9689,-95.2228,3.76905,-107.42265,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+282,complex_153w.pdb,-43.1018,-15.1071,-110.16,3.25193,-122.01517,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+283,complex_185w.pdb,-43.3849,-15.4901,-145.088,4.59298,-155.98512,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+284,complex_156w.pdb,-38.3134,-12.2848,-77.4825,4.26519,-85.50211,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+285,complex_191w.pdb,-49.4868,-11.1823,-237.305,5.54586,-242.94144,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+286,complex_18w.pdb,-43.9477,-12.8054,-41.4817,3.34819,-50.93890999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+287,complex_157w.pdb,-43.1431,-15.8128,-210.414,5.24896,-220.97784,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+288,complex_23w.pdb,-40.8689,-14.6564,-117.434,2.44313,-129.64727,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+289,complex_62w.pdb,-43.7027,-16.6191,-145.328,2.29794,-159.64916,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+290,complex_100w.pdb,-41.6439,-9.41268,-253.179,3.36511,-259.22657,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+291,complex_132w.pdb,-34.3055,-15.5756,-196.179,5.20475,-206.54985000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+292,complex_196w.pdb,-45.872,-17.1934,-179.723,5.4703,-191.4461,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+293,complex_25w.pdb,-45.8511,-17.6304,-38.7779,2.78542,-53.62288,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+294,complex_76w.pdb,-59.0836,-21.0783,-165.934,4.10248,-182.90981999999997,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+295,complex_45w.pdb,-50.5794,-13.065,-71.2966,3.125,-81.2366,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+296,complex_24w.pdb,-54.4384,-18.4975,-128.097,3.28063,-143.31387,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+297,complex_164w.pdb,-45.1173,-9.25261,-153.757,2.70949,-160.30012000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+298,complex_165w.pdb,-49.6944,-11.1609,-136.095,4.93535,-142.32055,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+299,complex_16w.pdb,-45.4598,-15.8865,-100.111,3.44775,-112.54975,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+300,complex_177w.pdb,-60.8009,-12.0479,-324.728,4.42981,-332.34609000000006,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+301,complex_70w.pdb,-30.1276,-17.6586,-134.132,1.76889,-150.02171,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+302,complex_124w.pdb,-51.8026,-14.1315,-74.1077,3.05552,-85.18368,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+303,complex_175w.pdb,-49.4262,-9.20158,-345.701,3.70943,-351.19315,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+304,complex_150w.pdb,-40.1771,-14.7549,-141.297,2.34731,-153.70459,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+305,complex_128w.pdb,-29.356,-13.776,-93.3244,5.31286,-101.78753999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+306,complex_155w.pdb,-63.0178,-18.614,-234.44,2.61417,-250.43983,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+307,complex_44w.pdb,-37.7462,-13.0645,-79.9022,3.72805,-89.23864999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+308,complex_125w.pdb,-44.9444,-11.3988,-225.095,3.42213,-233.07166999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+309,complex_42w.pdb,-38.6624,-2.57018,-238.13,3.76858,-236.9316,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+310,complex_176w.pdb,-44.1038,-12.9819,-310.468,5.42396,-318.02594,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+311,complex_29w.pdb,-50.8902,-13.6342,-138.336,4.18842,-147.78178,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+312,complex_183w.pdb,-37.6546,-3.23256,-193.097,3.76783,-192.56173,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+313,complex_82w.pdb,-47.036,-10.7836,-101.531,2.34437,-109.97023000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+314,complex_74w.pdb,-34.4595,3.56151,-258.377,4.03043,-250.78506000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+315,complex_47w.pdb,-50.5352,-5.61291,-216.635,3.94858,-218.29933,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+316,complex_119w.pdb,-38.8874,-14.3506,-230.234,4.00645,-240.57815000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+317,complex_195w.pdb,-48.9427,-3.65877,-217.513,4.97662,-216.19515,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+318,complex_179w.pdb,-43.1248,-18.4557,-170.936,4.4921,-184.89960000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+319,complex_58w.pdb,-55.8874,-18.6041,-93.5261,3.8938,-108.2364,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+320,complex_121w.pdb,-39.92,-20.2843,-162.289,2.80887,-179.76442999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+321,complex_40w.pdb,-36.7171,-15.9358,-117.852,4.70536,-129.08244,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+322,complex_20w.pdb,-46.0581,-7.01964,-214.279,3.40892,-217.88972,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+323,complex_54w.pdb,-45.4183,-15.2938,-195.831,4.02852,-207.09627999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+324,complex_53w.pdb,-41.139,0.657836,-283.586,3.27416,-279.65400400000004,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+325,complex_31w.pdb,-41.138,-12.5805,-133.11,5.27077,-140.41973000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+326,complex_104w.pdb,-33.4363,-15.3007,-104.66,4.48864,-115.47206,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+327,complex_34w.pdb,-21.0195,-13.6076,-98.5037,5.07582,-107.03548,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+328,complex_95w.pdb,-49.7335,-10.1831,-194.373,3.54815,-201.00795,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+329,complex_182w.pdb,-26.7033,-14.2087,-205.231,2.645,-216.79469999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+330,complex_63w.pdb,-55.1687,-9.27295,-189.024,4.0423,-194.25465,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+331,complex_130w.pdb,-32.7574,-15.0795,-75.7884,3.98872,-86.87917999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+332,complex_12w.pdb,-49.3587,-4.78227,-317.208,3.22601,-318.76426000000004,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+333,complex_21w.pdb,-30.3441,-13.5346,-97.1483,4.48876,-106.19414,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+334,complex_115w.pdb,-48.3521,-19.2235,-182.868,4.26912,-197.82238,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+335,complex_171w.pdb,-41.6622,-15.8872,-131.856,3.26786,-144.47534,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+336,complex_113w.pdb,-33.0826,-12.7784,-57.8785,3.72741,-66.92949,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+337,complex_111w.pdb,-24.1566,-12.5354,-39.7695,4.34106,-47.963840000000005,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+338,complex_145w.pdb,-42.6155,-14.4887,-120.676,3.33526,-131.82944,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+339,complex_118w.pdb,-28.8623,-6.54332,-244.219,2.86216,-247.90016,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+340,complex_158w.pdb,-38.4264,-18.4774,-219.993,3.72328,-234.74712,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+341,complex_107w.pdb,-51.7224,-12.8921,-151.946,5.02682,-159.81128,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+342,complex_137w.pdb,-42.6262,-18.3613,-106.476,2.78733,-122.04997,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+343,complex_144w.pdb,-43.2146,-14.1321,-54.8424,2.49895,-66.47555,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+344,complex_73w.pdb,-56.7223,-18.4888,-201.718,4.35054,-215.85626,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+345,complex_131w.pdb,-47.7844,-20.5072,-101.959,3.87165,-118.59455,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+346,complex_154w.pdb,-40.1651,-4.57149,-264.736,2.40868,-266.89880999999997,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+347,complex_169w.pdb,-40.9609,-12.776,-233.232,4.41195,-241.59605000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+348,complex_143w.pdb,-36.355,-16.2415,-94.5118,3.05844,-107.69485999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+349,complex_68w.pdb,-37.2975,-1.54019,-304.636,3.86668,-302.30951000000005,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+350,complex_22w.pdb,-35.7163,-13.1258,-127.885,3.74554,-137.26526,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+351,complex_75w.pdb,-41.8424,-14.6605,-147.182,4.71254,-157.12996,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+352,complex_114w.pdb,-45.5026,-15.8092,-108.225,4.40515,-119.62904999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+353,complex_69w.pdb,-54.2673,-18.6545,-166.218,4.34303,-180.52947,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+354,complex_59w.pdb,-38.8783,4.42558,-265.903,2.91403,-258.56338999999997,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+355,complex_189w.pdb,-38.5434,-3.86945,-301.312,3.95173,-301.22972,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+356,complex_35w.pdb,-49.8112,-19.3221,-185.763,4.52419,-200.56091,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+357,complex_162w.pdb,-51.4127,-5.99518,-313.622,4.4859,-315.13128,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+358,complex_13w.pdb,-39.634,-18.8526,-160.752,4.14629,-175.45831,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+359,complex_133w.pdb,-45.0109,-18.6886,-101.714,3.12396,-117.27864000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+360,complex_56w.pdb,-38.0427,-14.591,-103.452,3.97982,-114.06317999999999,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+361,complex_149w.pdb,-25.2019,-16.7247,-46.332,2.6933,-60.3634,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+362,complex_166w.pdb,-48.7046,-17.5635,-69.5306,3.7025,-83.39160000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+363,complex_28w.pdb,-50.9945,-14.4129,-46.7731,3.38327,-57.80273,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+364,complex_79w.pdb,-56.5953,-3.01486,-321.75,3.86981,-320.89505,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+365,complex_173w.pdb,-26.1424,-11.4141,-55.2882,4.53442,-62.16788000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+366,complex_188w.pdb,-39.643,-12.6376,-112.628,3.63351,-121.63209,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+367,complex_61w.pdb,-48.665,-9.07246,-191.594,2.98838,-197.67808,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+368,complex_41w.pdb,-22.5962,-14.2096,-64.3106,3.81426,-74.70593999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+369,complex_140w.pdb,-46.8396,-3.28672,-303.351,4.16413,-302.47359,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+370,complex_148w.pdb,-38.3997,-14.8434,-156.543,3.61235,-167.77405000000002,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+371,complex_134w.pdb,-26.0981,-9.11049,-99.7729,4.16887,-104.71452000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+372,complex_88w.pdb,-36.5057,-13.4793,-111.74,3.79542,-121.42388,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+373,complex_37w.pdb,-32.9073,-11.6799,-85.5217,3.81669,-93.38491,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+374,complex_72w.pdb,-53.1046,-18.871,-146.262,4.70173,-160.43127,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+375,complex_126w.pdb,-50.6397,-16.648,-108.949,4.10354,-121.49346,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+376,complex_146w.pdb,-36.1455,-12.8685,-74.6811,4.1863,-83.3633,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+377,complex_136w.pdb,-42.8848,-19.7648,-113.768,4.27205,-129.26075,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+378,complex_160w.pdb,-44.4345,-17.9084,-181.871,4.65682,-195.12258,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+379,complex_138w.pdb,-43.5892,-4.14136,-306.154,3.86586,-306.4295,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+380,complex_178w.pdb,-39.1235,-15.7095,-102.868,3.32137,-115.25613,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+381,complex_168w.pdb,-35.2034,-14.546,-103.651,3.59634,-114.60066,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+382,complex_110w.pdb,-44.6458,-15.0799,-57.0029,3.36989,-68.71291,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+383,complex_80w.pdb,-32.2606,-16.6656,-117.573,4.16316,-130.07544,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+384,complex_200w.pdb,-51.7416,-21.5345,-144.183,4.13793,-161.57957,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+385,complex_99w.pdb,-40.642,-16.5101,-106.599,3.96048,-119.14862000000001,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+386,complex_199w.pdb,-45.038,-19.0407,-120.742,4.04139,-135.74131,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+387,complex_170w.pdb,-40.6993,-17.4939,-121.309,3.96333,-134.83956999999998,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+388,complex_187w.pdb,-34.3595,-23.0724,-127.705,4.02876,-146.74864,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+389,complex_127w.pdb,-40.6779,-15.6196,-101.308,3.81055,-113.11705,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+390,complex_180w.pdb,-43.018,-20.9999,-163.34,4.15132,-180.18858,4Base Mismatch Boltz2,669247-4base_mismatch_boltz2
+391,complex_82w.pdb,-43.0782,1.35805,-362.835,4.47243,-357.00452,Terminal Fold2,668631-terminal_fold2
+392,complex_4w.pdb,-61.9828,-14.8957,-350.202,5.04668,-360.05102,Terminal Fold2,668631-terminal_fold2
+393,complex_3w.pdb,-57.6808,-15.1085,-361.596,5.21821,-371.48629,Terminal Fold2,668631-terminal_fold2
+394,complex_5w.pdb,-55.67,-15.2302,-331.416,5.42543,-341.22077,Terminal Fold2,668631-terminal_fold2
+395,complex_2w.pdb,-59.2512,-11.7481,-480.502,4.9339,-487.31620000000004,Terminal Fold2,668631-terminal_fold2
+396,complex_84w.pdb,-55.1908,-8.55035,-199.203,1.53716,-206.21619,Terminal Fold2,668631-terminal_fold2
+397,complex_1w.pdb,-72.5132,-7.864,-448.021,3.96129,-451.92370999999997,Terminal Fold2,668631-terminal_fold2
+398,complex_13w.pdb,-52.3605,-12.4754,-251.509,4.39094,-259.59346,Terminal Fold2,668631-terminal_fold2
+399,complex_78w.pdb,-49.3079,3.02989,-394.25,4.10411,-387.116,Terminal Fold2,668631-terminal_fold2
+400,complex_7w.pdb,-54.6383,-1.51983,-344.479,2.70719,-343.29164,Terminal Fold2,668631-terminal_fold2
+401,complex_6w.pdb,-59.1904,-17.7351,-253.258,3.99524,-266.99786,Terminal Fold2,668631-terminal_fold2
+402,complex_12w.pdb,-41.4865,-10.8841,-255.637,5.92075,-260.60035,Terminal Fold2,668631-terminal_fold2
+403,complex_22w.pdb,-56.7913,-14.0749,-143.289,2.04214,-155.32176,Terminal Fold2,668631-terminal_fold2
+404,complex_17w.pdb,-53.8896,-22.1743,-274.966,5.45755,-291.68275,Terminal Fold2,668631-terminal_fold2
+405,complex_37w.pdb,-53.142,-9.28872,-241.593,3.70294,-247.17878,Terminal Fold2,668631-terminal_fold2
+406,complex_11w.pdb,-56.7901,-7.22607,-384.431,3.88736,-387.76971,Terminal Fold2,668631-terminal_fold2
+407,complex_47w.pdb,-61.3174,-2.66751,-452.706,4.09102,-451.28249,Terminal Fold2,668631-terminal_fold2
+408,complex_43w.pdb,-44.127,-15.0338,-193.887,3.97816,-204.94263999999998,Terminal Fold2,668631-terminal_fold2
+409,complex_164w.pdb,-51.6714,-9.04153,-338.055,4.2288,-342.86773000000005,Terminal Fold2,668631-terminal_fold2
+410,complex_18w.pdb,-54.6474,-15.0003,-254.769,4.13649,-265.63281,Terminal Fold2,668631-terminal_fold2
+411,complex_139w.pdb,-62.8315,-13.191,-245.168,5.06398,-253.29502,Terminal Fold2,668631-terminal_fold2
+412,complex_65w.pdb,-41.1698,-13.7195,-212.832,4.82297,-221.72853,Terminal Fold2,668631-terminal_fold2
+413,complex_131w.pdb,-49.0155,-15.3308,-280.557,3.96431,-291.92349,Terminal Fold2,668631-terminal_fold2
+414,complex_9w.pdb,-64.5592,-17.3028,-95.6344,2.17743,-110.75977,Terminal Fold2,668631-terminal_fold2
+415,complex_62w.pdb,-48.1223,-12.1835,-165.198,4.96475,-172.41675,Terminal Fold2,668631-terminal_fold2
+416,complex_28w.pdb,-37.4151,-10.3352,-155.221,4.25902,-161.29718,Terminal Fold2,668631-terminal_fold2
+417,complex_81w.pdb,-51.726,-10.2374,-236.412,5.58686,-241.06254,Terminal Fold2,668631-terminal_fold2
+418,complex_163w.pdb,-34.7718,-16.2546,-193.262,5.77398,-203.74262000000002,Terminal Fold2,668631-terminal_fold2
+419,complex_27w.pdb,-66.2189,-11.6302,-535.093,4.67181,-542.0513899999999,Terminal Fold2,668631-terminal_fold2
+420,complex_23w.pdb,-56.4915,-6.54697,-258.014,5.24443,-259.31654,Terminal Fold2,668631-terminal_fold2
+421,complex_70w.pdb,-47.1771,-13.4579,-271.747,5.41459,-279.79031000000003,Terminal Fold2,668631-terminal_fold2
+422,complex_67w.pdb,-52.1955,-15.6831,-212.756,4.00947,-224.42963,Terminal Fold2,668631-terminal_fold2
+423,complex_119w.pdb,-46.3421,-16.6655,-262.774,5.67319,-273.76631000000003,Terminal Fold2,668631-terminal_fold2
+424,complex_98w.pdb,-64.9288,-8.65115,-234.025,5.13254,-237.54361,Terminal Fold2,668631-terminal_fold2
+425,complex_29w.pdb,-59.1672,-14.6409,-218.105,4.63966,-228.10623999999999,Terminal Fold2,668631-terminal_fold2
+426,complex_174w.pdb,-40.5725,-12.844,-64.3553,5.56217,-71.63713,Terminal Fold2,668631-terminal_fold2
+427,complex_10w.pdb,-64.1782,-19.1989,-82.2142,3.51085,-97.90225,Terminal Fold2,668631-terminal_fold2
+428,complex_49w.pdb,-45.9131,-13.2832,-207.987,5.67767,-215.59252999999998,Terminal Fold2,668631-terminal_fold2
+429,complex_136w.pdb,-53.873,-12.0695,-244.659,5.27562,-251.45288,Terminal Fold2,668631-terminal_fold2
+430,complex_19w.pdb,-58.8058,-16.8443,-280.619,4.30811,-293.15519,Terminal Fold2,668631-terminal_fold2
+431,complex_61w.pdb,-49.6415,-15.9023,-204.403,4.36433,-215.94097,Terminal Fold2,668631-terminal_fold2
+432,complex_124w.pdb,-50.0843,-12.6586,-172.296,4.86899,-180.08561,Terminal Fold2,668631-terminal_fold2
+433,complex_8w.pdb,-39.6525,-4.41626,-261.647,4.09854,-261.96472,Terminal Fold2,668631-terminal_fold2
+434,complex_111w.pdb,-41.9846,-16.5276,-172.577,2.08564,-187.01896,Terminal Fold2,668631-terminal_fold2
+435,complex_45w.pdb,-58.7738,-13.7216,-396.391,4.27047,-405.84213000000005,Terminal Fold2,668631-terminal_fold2
+436,complex_94w.pdb,-47.4525,-13.4716,-184.357,4.33481,-193.49379,Terminal Fold2,668631-terminal_fold2
+437,complex_35w.pdb,-39.9619,-2.83344,-207.294,5.29841,-204.82903000000002,Terminal Fold2,668631-terminal_fold2
+438,complex_44w.pdb,-46.4145,-13.1698,-246.099,5.53449,-253.73431,Terminal Fold2,668631-terminal_fold2
+439,complex_175w.pdb,-62.1174,-11.5292,-276.531,5.09305,-282.96715,Terminal Fold2,668631-terminal_fold2
+440,complex_21w.pdb,-41.7241,-20.019,-148.536,5.08846,-163.46654,Terminal Fold2,668631-terminal_fold2
+441,complex_36w.pdb,-54.2478,-17.3349,-378.097,4.68212,-390.74978,Terminal Fold2,668631-terminal_fold2
+442,complex_156w.pdb,-44.7755,-14.6132,-234.543,5.17805,-243.97815,Terminal Fold2,668631-terminal_fold2
+443,complex_24w.pdb,-54.8126,-13.6814,-192.169,2.86311,-202.98729,Terminal Fold2,668631-terminal_fold2
+444,complex_93w.pdb,-47.7969,-15.8881,-175.502,4.02678,-187.36332000000002,Terminal Fold2,668631-terminal_fold2
+445,complex_32w.pdb,-62.0875,-19.1497,-324.288,4.55329,-338.88441,Terminal Fold2,668631-terminal_fold2
+446,complex_118w.pdb,-56.8541,5.00812,-507.205,5.27293,-496.92395,Terminal Fold2,668631-terminal_fold2
+447,complex_73w.pdb,-63.1616,-17.1429,-251.701,5.68649,-263.15741,Terminal Fold2,668631-terminal_fold2
+448,complex_26w.pdb,-56.7348,-18.5475,-296.701,3.8845,-311.36400000000003,Terminal Fold2,668631-terminal_fold2
+449,complex_57w.pdb,-63.3741,-12.6717,-459.44,2.69724,-469.41445999999996,Terminal Fold2,668631-terminal_fold2
+450,complex_103w.pdb,-48.2565,-15.2124,-227.737,2.71663,-240.23277,Terminal Fold2,668631-terminal_fold2
+451,complex_79w.pdb,-75.2985,-18.7266,-315.176,4.45625,-329.44635,Terminal Fold2,668631-terminal_fold2
+452,complex_185w.pdb,-62.1645,-15.3227,-273.915,4.49136,-284.74634000000003,Terminal Fold2,668631-terminal_fold2
+453,complex_89w.pdb,-62.0506,-15.0206,-490.296,5.54399,-499.77261,Terminal Fold2,668631-terminal_fold2
+454,complex_33w.pdb,-48.4686,-20.1092,-289.837,3.70689,-306.23931,Terminal Fold2,668631-terminal_fold2
+455,complex_113w.pdb,-48.9313,-15.846,-237.61,6.19859,-247.25741000000002,Terminal Fold2,668631-terminal_fold2
+456,complex_46w.pdb,-61.7784,-10.3925,-508.261,4.68963,-513.96387,Terminal Fold2,668631-terminal_fold2
+457,complex_72w.pdb,-51.3553,-15.8317,-421.026,5.73677,-431.12093000000004,Terminal Fold2,668631-terminal_fold2
+458,complex_30w.pdb,-59.6133,-9.02547,-483.973,3.37946,-489.61901,Terminal Fold2,668631-terminal_fold2
+459,complex_40w.pdb,-57.8514,-20.6214,-290.883,3.884,-307.62039999999996,Terminal Fold2,668631-terminal_fold2
+460,complex_16w.pdb,-67.4852,-9.79167,-500.924,4.22183,-506.49384,Terminal Fold2,668631-terminal_fold2
+461,complex_127w.pdb,-50.89,-17.6897,-251.9,3.92228,-265.66742,Terminal Fold2,668631-terminal_fold2
+462,complex_53w.pdb,-45.5923,-14.5474,-263.269,5.83677,-271.97963,Terminal Fold2,668631-terminal_fold2
+463,complex_75w.pdb,-37.041,-13.0261,-60.8426,2.39693,-71.47176999999999,Terminal Fold2,668631-terminal_fold2
+464,complex_42w.pdb,-44.2185,-15.5125,-256.36,5.96615,-265.90635,Terminal Fold2,668631-terminal_fold2
+465,complex_55w.pdb,-20.716,-8.91818,-234.486,5.63408,-237.77009999999999,Terminal Fold2,668631-terminal_fold2
+466,complex_64w.pdb,-53.7501,-13.4118,-263.774,4.23719,-272.94861,Terminal Fold2,668631-terminal_fold2
+467,complex_104w.pdb,-31.3916,-12.6753,-243.393,6.51475,-249.55355000000003,Terminal Fold2,668631-terminal_fold2
+468,complex_99w.pdb,-36.7566,-2.39968,-322.826,4.95932,-320.26636,Terminal Fold2,668631-terminal_fold2
+469,complex_189w.pdb,-43.296,-11.551,-196.487,5.95902,-202.07897999999997,Terminal Fold2,668631-terminal_fold2
+470,complex_181w.pdb,-51.6045,-7.52701,-185.828,4.32603,-189.02898,Terminal Fold2,668631-terminal_fold2
+471,complex_129w.pdb,-51.1303,-14.9841,-387.399,5.0187,-397.3644,Terminal Fold2,668631-terminal_fold2
+472,complex_146w.pdb,-56.4036,-16.3011,-176.632,2.5381,-190.39499999999998,Terminal Fold2,668631-terminal_fold2
+473,complex_122w.pdb,-52.2369,-15.5524,-354.788,4.89193,-365.44847,Terminal Fold2,668631-terminal_fold2
+474,complex_87w.pdb,-60.8282,-16.3099,-223.044,4.51065,-234.84325,Terminal Fold2,668631-terminal_fold2
+475,complex_107w.pdb,-44.7564,-11.2665,-219.54,5.06914,-225.73736,Terminal Fold2,668631-terminal_fold2
+476,complex_128w.pdb,-68.0035,-12.1518,-535.619,5.03419,-542.73661,Terminal Fold2,668631-terminal_fold2
+477,complex_178w.pdb,-51.4426,-8.88647,-442.199,4.50104,-446.58443,Terminal Fold2,668631-terminal_fold2
+478,complex_133w.pdb,-45.8842,-4.69432,-195.046,3.47594,-196.26438,Terminal Fold2,668631-terminal_fold2
+479,complex_154w.pdb,-56.146,-12.6408,-223.189,4.66411,-231.16569,Terminal Fold2,668631-terminal_fold2
+480,complex_130w.pdb,-57.1608,-13.4088,-512.213,4.82495,-520.7968500000001,Terminal Fold2,668631-terminal_fold2
+481,complex_14w.pdb,-55.0636,-0.812409,-416.348,3.84634,-413.314069,Terminal Fold2,668631-terminal_fold2
+482,complex_88w.pdb,-39.2982,-14.3953,-109.594,3.95821,-120.03109,Terminal Fold2,668631-terminal_fold2
+483,complex_121w.pdb,-50.4971,-7.55859,-179.701,3.42431,-183.83528,Terminal Fold2,668631-terminal_fold2
+484,complex_34w.pdb,-45.7223,-16.9783,-96.6279,3.09689,-110.50931,Terminal Fold2,668631-terminal_fold2
+485,complex_171w.pdb,-46.1704,-7.21135,-246.456,4.57416,-249.09319,Terminal Fold2,668631-terminal_fold2
+486,complex_135w.pdb,-42.8278,-14.5228,-82.9905,5.14485,-92.36845,Terminal Fold2,668631-terminal_fold2
+487,complex_125w.pdb,-46.8169,-12.5589,-164.437,2.99543,-174.00047,Terminal Fold2,668631-terminal_fold2
+488,complex_97w.pdb,-57.2745,-14.7029,-222.596,5.2933,-232.00560000000002,Terminal Fold2,668631-terminal_fold2
+489,complex_68w.pdb,-51.2756,-15.4804,-195.884,3.97661,-207.38779,Terminal Fold2,668631-terminal_fold2
+490,complex_199w.pdb,-48.5754,-16.9919,-113.327,4.86021,-125.45868999999999,Terminal Fold2,668631-terminal_fold2
+491,complex_20w.pdb,-58.4601,-15.1406,-50.089,1.86594,-63.36366,Terminal Fold2,668631-terminal_fold2
+492,complex_116w.pdb,-42.6504,-2.38817,-285.493,4.03289,-283.84828,Terminal Fold2,668631-terminal_fold2
+493,complex_76w.pdb,-48.2493,-9.42701,-263.042,3.695,-268.77401,Terminal Fold2,668631-terminal_fold2
+494,complex_112w.pdb,-58.4018,-8.64016,-86.5654,3.5045,-91.70105999999998,Terminal Fold2,668631-terminal_fold2
+495,complex_138w.pdb,-47.4236,-12.3625,-247.401,5.5011,-254.2624,Terminal Fold2,668631-terminal_fold2
+496,complex_108w.pdb,-62.9317,-14.5336,-331.17,4.08843,-341.61517,Terminal Fold2,668631-terminal_fold2
+497,complex_157w.pdb,-42.0494,-12.8975,-196.387,4.10303,-205.18147000000002,Terminal Fold2,668631-terminal_fold2
+498,complex_145w.pdb,-53.8023,-13.5989,-250.11,5.47582,-258.23308000000003,Terminal Fold2,668631-terminal_fold2
+499,complex_187w.pdb,-36.0125,-8.46303,-47.2962,2.13827,-53.620960000000004,Terminal Fold2,668631-terminal_fold2
+500,complex_51w.pdb,-34.777,-3.22199,-296.949,5.38414,-294.78685,Terminal Fold2,668631-terminal_fold2
+501,complex_41w.pdb,-48.5306,-10.3464,-249.354,4.57542,-255.12498,Terminal Fold2,668631-terminal_fold2
+502,complex_38w.pdb,-57.8972,-11.3728,-506.928,2.8098,-515.491,Terminal Fold2,668631-terminal_fold2
+503,complex_48w.pdb,-49.3641,-16.2524,-273.969,4.28565,-285.93575000000004,Terminal Fold2,668631-terminal_fold2
+504,complex_190w.pdb,-43.6742,-15.3344,-206.338,4.49774,-217.17466,Terminal Fold2,668631-terminal_fold2
+505,complex_31w.pdb,-51.8718,-20.9456,-161.98,4.56964,-178.35595999999998,Terminal Fold2,668631-terminal_fold2
+506,complex_197w.pdb,-39.6261,-9.9399,-461.54,3.94253,-467.53737000000007,Terminal Fold2,668631-terminal_fold2
+507,complex_102w.pdb,-58.65,-13.9553,-312.994,4.54156,-322.40774000000005,Terminal Fold2,668631-terminal_fold2
+508,complex_83w.pdb,-58.1171,-8.42023,-504.269,4.99866,-507.69057,Terminal Fold2,668631-terminal_fold2
+509,complex_39w.pdb,-26.4701,-18.7602,-65.425,3.32559,-80.85960999999999,Terminal Fold2,668631-terminal_fold2
+510,complex_172w.pdb,-38.3174,-16.8186,-201.727,5.35456,-213.19104000000002,Terminal Fold2,668631-terminal_fold2
+511,complex_74w.pdb,-43.3454,-12.3487,-121.17,4.48079,-129.03790999999998,Terminal Fold2,668631-terminal_fold2
+512,complex_101w.pdb,-42.5415,-5.6049,-487.431,2.63547,-490.40043,Terminal Fold2,668631-terminal_fold2
+513,complex_137w.pdb,-34.0374,-19.0606,-208.572,4.78699,-222.84561,Terminal Fold2,668631-terminal_fold2
+514,complex_60w.pdb,-53.3049,-10.8837,-413.825,4.51622,-420.19248,Terminal Fold2,668631-terminal_fold2
+515,complex_143w.pdb,-43.3732,-10.667,-242.985,3.44054,-250.21146000000002,Terminal Fold2,668631-terminal_fold2
+516,complex_170w.pdb,-48.253,-18.5546,-182.749,5.24367,-196.05992999999998,Terminal Fold2,668631-terminal_fold2
+517,complex_114w.pdb,-44.6929,-14.4967,-201.613,4.02047,-212.08923000000001,Terminal Fold2,668631-terminal_fold2
+518,complex_50w.pdb,-49.6788,-18.7368,-256.253,3.11372,-271.87608,Terminal Fold2,668631-terminal_fold2
+519,complex_123w.pdb,-56.2097,-11.0823,-362.312,4.89339,-368.50091,Terminal Fold2,668631-terminal_fold2
+520,complex_69w.pdb,-41.7121,-14.2444,-445.672,4.88295,-455.03345,Terminal Fold2,668631-terminal_fold2
+521,complex_186w.pdb,-55.9523,-18.5685,-231.066,5.592,-244.0425,Terminal Fold2,668631-terminal_fold2
+522,complex_71w.pdb,-57.0688,-20.3589,-227.029,5.59207,-241.79583,Terminal Fold2,668631-terminal_fold2
+523,complex_109w.pdb,-37.7666,-10.275,-154.355,4.8513,-159.7787,Terminal Fold2,668631-terminal_fold2
+524,complex_54w.pdb,-58.4235,-19.6945,-65.8207,3.95561,-81.55959000000001,Terminal Fold2,668631-terminal_fold2
+525,complex_105w.pdb,-60.0852,-16.2496,-370.786,3.81503,-383.22057,Terminal Fold2,668631-terminal_fold2
+526,complex_149w.pdb,-59.6713,-2.56171,-437.71,3.46021,-436.81149999999997,Terminal Fold2,668631-terminal_fold2
+527,complex_140w.pdb,-32.3745,-3.32134,-158.426,4.32766,-157.41967999999997,Terminal Fold2,668631-terminal_fold2
+528,complex_200w.pdb,-35.8696,-10.9107,-88.9021,3.39835,-96.41445000000002,Terminal Fold2,668631-terminal_fold2
+529,complex_179w.pdb,-33.7071,-12.5524,-321.957,5.56957,-328.93983,Terminal Fold2,668631-terminal_fold2
+530,complex_162w.pdb,-45.8015,-3.15575,-308.263,3.27063,-308.14812,Terminal Fold2,668631-terminal_fold2
+531,complex_159w.pdb,-49.4053,-18.2042,-473.27,5.19858,-486.27562,Terminal Fold2,668631-terminal_fold2
+532,complex_183w.pdb,-40.5962,-16.6075,-276.486,3.18731,-289.90619,Terminal Fold2,668631-terminal_fold2
+533,complex_126w.pdb,-38.8498,-11.3959,-105.427,3.63456,-113.18834000000001,Terminal Fold2,668631-terminal_fold2
+534,complex_120w.pdb,-52.918,-13.3067,-242.193,3.63315,-251.86655000000002,Terminal Fold2,668631-terminal_fold2
+535,complex_63w.pdb,-43.1387,-18.3928,-71.5388,4.06369,-85.86791000000001,Terminal Fold2,668631-terminal_fold2
+536,complex_15w.pdb,-50.0165,-3.02196,-342.347,5.01506,-340.35389999999995,Terminal Fold2,668631-terminal_fold2
+537,complex_176w.pdb,-46.3832,-0.20776,-463.976,4.48079,-459.70297,Terminal Fold2,668631-terminal_fold2
+538,complex_25w.pdb,-40.5076,-10.5177,-247.382,5.2235,-252.6762,Terminal Fold2,668631-terminal_fold2
+539,complex_52w.pdb,-48.0227,-15.7526,-115.31,1.95867,-129.10393,Terminal Fold2,668631-terminal_fold2
+540,complex_91w.pdb,-28.5139,-12.6808,-61.9555,4.52977,-70.10653,Terminal Fold2,668631-terminal_fold2
+541,complex_59w.pdb,-55.2829,-10.3593,-335.353,4.8401,-340.8722,Terminal Fold2,668631-terminal_fold2
+542,complex_151w.pdb,-49.3658,-18.4767,-273.897,3.83448,-288.53922,Terminal Fold2,668631-terminal_fold2
+543,complex_86w.pdb,-35.164,-14.1053,-150.031,3.10432,-161.03198,Terminal Fold2,668631-terminal_fold2
+544,complex_198w.pdb,-46.2388,-16.5972,-136.656,5.53391,-147.71929,Terminal Fold2,668631-terminal_fold2
+545,complex_192w.pdb,-45.3225,-5.8553,-354.747,4.98967,-355.61263,Terminal Fold2,668631-terminal_fold2
+546,complex_148w.pdb,-49.2154,-0.777127,-328.715,3.59379,-325.89833699999997,Terminal Fold2,668631-terminal_fold2
+547,complex_195w.pdb,-53.4391,-20.1931,-266.622,3.52185,-283.29325000000006,Terminal Fold2,668631-terminal_fold2
+548,complex_169w.pdb,-25.4063,-10.4265,-219.426,5.51217,-224.34033,Terminal Fold2,668631-terminal_fold2
+549,complex_161w.pdb,-61.853,-2.35046,-495.81,4.93391,-493.22655,Terminal Fold2,668631-terminal_fold2
+550,complex_77w.pdb,-42.8149,-5.83908,-239.513,4.48049,-240.87159,Terminal Fold2,668631-terminal_fold2
+551,complex_56w.pdb,-45.8378,-9.8048,-291.616,1.69273,-299.72807,Terminal Fold2,668631-terminal_fold2
+552,complex_167w.pdb,-38.4067,-13.964,-340.375,4.67214,-349.66686,Terminal Fold2,668631-terminal_fold2
+553,complex_158w.pdb,-39.5666,-9.38169,-215.511,4.65032,-220.24237,Terminal Fold2,668631-terminal_fold2
+554,complex_150w.pdb,-37.3575,-8.09665,-79.9864,4.04315,-84.0399,Terminal Fold2,668631-terminal_fold2
+555,complex_166w.pdb,-35.0813,-11.578,-223.325,6.2356,-228.6674,Terminal Fold2,668631-terminal_fold2
+556,complex_100w.pdb,-46.9462,-4.96017,-259.023,4.7426,-259.24057000000005,Terminal Fold2,668631-terminal_fold2
+557,complex_92w.pdb,-41.7769,-8.02078,-303.48,4.88646,-306.61432,Terminal Fold2,668631-terminal_fold2
+558,complex_153w.pdb,-52.1895,1.79994,-496.109,4.40013,-489.90893,Terminal Fold2,668631-terminal_fold2
+559,complex_177w.pdb,-52.9595,2.19818,-473.042,4.76581,-466.07801,Terminal Fold2,668631-terminal_fold2
+560,complex_90w.pdb,-30.0469,-13.0006,-251.713,4.7017,-260.01189999999997,Terminal Fold2,668631-terminal_fold2
+561,complex_155w.pdb,-41.1313,-12.0728,-180.16,4.88625,-187.34655,Terminal Fold2,668631-terminal_fold2
+562,complex_180w.pdb,-39.8482,-10.1582,-143.079,3.95146,-149.28574,Terminal Fold2,668631-terminal_fold2
+563,complex_147w.pdb,-37.3741,-6.35956,-385.41,3.81984,-387.94972,Terminal Fold2,668631-terminal_fold2
+564,complex_96w.pdb,-44.3882,-20.5963,-203.387,4.28673,-219.69656999999998,Terminal Fold2,668631-terminal_fold2
+565,complex_152w.pdb,-28.1063,-17.4796,-88.0399,4.90667,-100.61283,Terminal Fold2,668631-terminal_fold2
+566,complex_58w.pdb,-42.7083,-15.5459,-255.352,4.56544,-266.33245999999997,Terminal Fold2,668631-terminal_fold2
+567,complex_132w.pdb,-45.4993,-17.5627,-299.1,3.01323,-313.64947,Terminal Fold2,668631-terminal_fold2
+568,complex_85w.pdb,-44.922,-10.7937,-35.9372,3.56812,-43.16278,Terminal Fold2,668631-terminal_fold2
+569,complex_188w.pdb,-31.9195,-11.3967,-249.35,3.88083,-256.86587,Terminal Fold2,668631-terminal_fold2
+570,complex_191w.pdb,-54.8061,-20.5059,-320.344,4.00927,-336.84063,Terminal Fold2,668631-terminal_fold2
+571,complex_134w.pdb,-33.4574,-8.94375,-123.125,1.93927,-130.12948,Terminal Fold2,668631-terminal_fold2
+572,complex_182w.pdb,-31.107,-23.1296,-130.865,3.47304,-150.52156000000002,Terminal Fold2,668631-terminal_fold2
+573,complex_142w.pdb,-33.6609,-6.02773,-406.562,3.67362,-408.91611,Terminal Fold2,668631-terminal_fold2
+574,complex_165w.pdb,-57.69,4.40572,-345.115,4.37915,-336.33013000000005,Terminal Fold2,668631-terminal_fold2
+575,complex_95w.pdb,-38.1113,-22.034,-170.672,4.57418,-188.13181999999998,Terminal Fold2,668631-terminal_fold2
+576,complex_168w.pdb,-47.1535,-13.8053,-484.171,3.26792,-494.70838,Terminal Fold2,668631-terminal_fold2
+577,complex_144w.pdb,-50.093,-19.615,-343.217,3.96146,-358.87054,Terminal Fold2,668631-terminal_fold2
+578,complex_115w.pdb,-45.1984,-16.9212,-155.75,2.47432,-170.19688,Terminal Fold2,668631-terminal_fold2
+579,complex_66w.pdb,-48.63,-9.11789,-338.391,5.2105,-342.29839,Terminal Fold2,668631-terminal_fold2
+580,complex_184w.pdb,-32.1645,-14.8419,-132.04,4.16691,-142.71499,Terminal Fold2,668631-terminal_fold2
+581,complex_106w.pdb,-47.7789,-13.2973,-216.982,5.07166,-225.20764,Terminal Fold2,668631-terminal_fold2
+582,complex_160w.pdb,-30.9815,-17.9504,-69.3547,4.14927,-83.15583,Terminal Fold2,668631-terminal_fold2
+583,complex_173w.pdb,-37.1206,-11.7725,-223.642,4.45669,-230.95781,Terminal Fold2,668631-terminal_fold2
+584,complex_141w.pdb,-32.9967,-7.42623,-164.391,3.83852,-167.97871,Terminal Fold2,668631-terminal_fold2
+585,complex_110w.pdb,-31.6643,-3.90198,-416.009,4.13606,-415.77492,Terminal Fold2,668631-terminal_fold2
+586,complex_194w.pdb,-29.0588,-12.0453,-248.576,4.54466,-256.07664,Terminal Fold2,668631-terminal_fold2
+587,complex_80w.pdb,-41.4322,-15.3963,-145.119,3.88372,-156.63157999999999,Terminal Fold2,668631-terminal_fold2
+588,complex_117w.pdb,-34.5169,-17.7881,-192.79,4.27639,-206.30171,Terminal Fold2,668631-terminal_fold2
+589,complex_193w.pdb,-28.4615,-10.3179,-277.93,5.34127,-282.90663,Terminal Fold2,668631-terminal_fold2
+590,complex_196w.pdb,-29.9301,-7.64907,-193.989,5.25652,-196.38155,Terminal Fold2,668631-terminal_fold2
+591,complex_36w.pdb,-37.4757,-10.5911,-103.489,3.19649,-110.88361,Scrambled Boltz2,669245-scrambled_boltz2
+592,complex_3w.pdb,-54.9272,-7.95611,-172.701,5.60967,-175.04744,Scrambled Boltz2,669245-scrambled_boltz2
+593,complex_1w.pdb,-25.5934,-5.97225,-32.6391,2.28081,-36.33054,Scrambled Boltz2,669245-scrambled_boltz2
+594,complex_158w.pdb,-34.6649,-12.0455,-153.341,4.64991,-160.73659,Scrambled Boltz2,669245-scrambled_boltz2
+595,complex_46w.pdb,-40.8724,-5.12837,-171.563,6.10229,-170.58907999999997,Scrambled Boltz2,669245-scrambled_boltz2
+596,complex_53w.pdb,-46.9288,-9.97908,-149.637,4.32134,-155.29474000000002,Scrambled Boltz2,669245-scrambled_boltz2
+597,complex_5w.pdb,-64.2443,-6.11609,-434.468,4.76453,-435.81956,Scrambled Boltz2,669245-scrambled_boltz2
+598,complex_57w.pdb,-48.479,-16.957,-259.402,5.19651,-271.16249,Scrambled Boltz2,669245-scrambled_boltz2
+599,complex_81w.pdb,-35.1706,-9.93603,-137.599,4.59145,-142.94357999999997,Scrambled Boltz2,669245-scrambled_boltz2
+600,complex_118w.pdb,-23.7588,-9.6132,-108.46,5.09357,-112.97963,Scrambled Boltz2,669245-scrambled_boltz2
+601,complex_152w.pdb,-35.0075,-12.705,-87.9406,5.33134,-95.31426,Scrambled Boltz2,669245-scrambled_boltz2
+602,complex_99w.pdb,-43.5533,-10.066,-51.8615,4.17985,-57.74765,Scrambled Boltz2,669245-scrambled_boltz2
+603,complex_49w.pdb,-46.1504,-11.632,-192.208,4.00528,-199.83472,Scrambled Boltz2,669245-scrambled_boltz2
+604,complex_7w.pdb,-49.098,-3.72954,-300.244,4.15305,-299.82049,Scrambled Boltz2,669245-scrambled_boltz2
+605,complex_6w.pdb,-51.2239,-13.7389,-344.516,6.05939,-352.19551,Scrambled Boltz2,669245-scrambled_boltz2
+606,complex_21w.pdb,-59.0569,-13.3776,-122.592,4.8471,-131.12249999999997,Scrambled Boltz2,669245-scrambled_boltz2
+607,complex_18w.pdb,-59.4221,-9.97913,-221.705,3.92989,-227.75424,Scrambled Boltz2,669245-scrambled_boltz2
+608,complex_141w.pdb,-32.3415,-10.4368,-80.5338,5.1757,-85.7949,Scrambled Boltz2,669245-scrambled_boltz2
+609,complex_50w.pdb,-51.8397,-11.237,-188.782,4.40203,-195.61697,Scrambled Boltz2,669245-scrambled_boltz2
+610,complex_127w.pdb,-23.7176,-10.9624,-72.9315,5.53887,-78.35503,Scrambled Boltz2,669245-scrambled_boltz2
+611,complex_54w.pdb,-53.2573,-7.72799,-182.443,6.01664,-184.15435000000002,Scrambled Boltz2,669245-scrambled_boltz2
+612,complex_4w.pdb,-48.6787,-3.77005,-217.267,3.34719,-217.68985999999998,Scrambled Boltz2,669245-scrambled_boltz2
+613,complex_62w.pdb,-60.1114,-7.58334,-308.605,6.79221,-309.39613,Scrambled Boltz2,669245-scrambled_boltz2
+614,complex_144w.pdb,-29.1518,-11.8542,-107.811,3.80882,-115.85638000000002,Scrambled Boltz2,669245-scrambled_boltz2
+615,complex_14w.pdb,-38.7887,-12.472,-188.405,3.84811,-197.02889000000002,Scrambled Boltz2,669245-scrambled_boltz2
+616,complex_131w.pdb,-44.8501,-5.01666,-294.561,4.7238,-294.85386,Scrambled Boltz2,669245-scrambled_boltz2
+617,complex_16w.pdb,-35.3489,-14.3564,-214.528,4.71027,-224.17413,Scrambled Boltz2,669245-scrambled_boltz2
+618,complex_30w.pdb,-37.7002,-11.5375,-94.1661,4.45738,-101.24622,Scrambled Boltz2,669245-scrambled_boltz2
+619,complex_33w.pdb,-49.0404,-7.38051,-169.867,3.60981,-173.63769999999997,Scrambled Boltz2,669245-scrambled_boltz2
+620,complex_28w.pdb,-48.945,-8.04713,-260.46,4.43349,-264.07363999999995,Scrambled Boltz2,669245-scrambled_boltz2
+621,complex_10w.pdb,-54.5411,-10.579,-232.609,4.09772,-239.09028,Scrambled Boltz2,669245-scrambled_boltz2
+622,complex_13w.pdb,-50.1446,-10.1902,-157.573,4.0998,-163.66340000000002,Scrambled Boltz2,669245-scrambled_boltz2
+623,complex_98w.pdb,-41.1633,-13.7298,-220.807,6.38648,-228.15032,Scrambled Boltz2,669245-scrambled_boltz2
+624,complex_37w.pdb,-47.0106,-7.90539,-296.947,6.13718,-298.71521,Scrambled Boltz2,669245-scrambled_boltz2
+625,complex_35w.pdb,-41.7176,-3.98418,-278.421,5.7302,-276.67497999999995,Scrambled Boltz2,669245-scrambled_boltz2
+626,complex_82w.pdb,-47.3802,-7.58789,-269.761,5.50817,-271.84072000000003,Scrambled Boltz2,669245-scrambled_boltz2
+627,complex_56w.pdb,-64.1594,-4.80287,-207.945,3.78873,-208.95914000000002,Scrambled Boltz2,669245-scrambled_boltz2
+628,complex_12w.pdb,-41.7525,-5.57515,-199.971,1.2864,-204.25975000000003,Scrambled Boltz2,669245-scrambled_boltz2
+629,complex_24w.pdb,-52.1123,-10.5809,-79.4491,3.2507,-86.7793,Scrambled Boltz2,669245-scrambled_boltz2
+630,complex_38w.pdb,-51.1836,-6.95729,-223.753,5.06627,-225.64401999999998,Scrambled Boltz2,669245-scrambled_boltz2
+631,complex_68w.pdb,-53.8264,-9.22104,-137.358,5.68565,-140.89338999999998,Scrambled Boltz2,669245-scrambled_boltz2
+632,complex_60w.pdb,-70.9793,-11.0131,-370.64,6.37835,-375.27475,Scrambled Boltz2,669245-scrambled_boltz2
+633,complex_43w.pdb,-61.1102,-9.62512,-271.83,3.6941,-277.76102,Scrambled Boltz2,669245-scrambled_boltz2
+634,complex_11w.pdb,-52.7268,-10.2621,-277.075,4.59369,-282.74341,Scrambled Boltz2,669245-scrambled_boltz2
+635,complex_34w.pdb,-55.8484,-9.98494,-232.467,4.42437,-238.02757,Scrambled Boltz2,669245-scrambled_boltz2
+636,complex_9w.pdb,-47.1549,-11.5708,-256.917,3.94184,-264.54596,Scrambled Boltz2,669245-scrambled_boltz2
+637,complex_31w.pdb,-47.3593,-7.6242,-312.62,4.48486,-315.75933999999995,Scrambled Boltz2,669245-scrambled_boltz2
+638,complex_142w.pdb,-42.4461,-12.1202,-188.268,4.51348,-195.87472000000002,Scrambled Boltz2,669245-scrambled_boltz2
+639,complex_51w.pdb,-38.1803,2.40571,-255.776,3.12153,-250.24876,Scrambled Boltz2,669245-scrambled_boltz2
+640,complex_19w.pdb,-43.4363,1.65055,-298.78,4.01479,-293.11465999999996,Scrambled Boltz2,669245-scrambled_boltz2
+641,complex_117w.pdb,-46.5512,-7.65038,-189.149,5.81079,-190.98859000000002,Scrambled Boltz2,669245-scrambled_boltz2
+642,complex_134w.pdb,-36.7226,-16.0905,-229.862,6.30489,-239.64761,Scrambled Boltz2,669245-scrambled_boltz2
+643,complex_69w.pdb,-28.3336,-10.7402,-35.1015,3.2502,-42.5915,Scrambled Boltz2,669245-scrambled_boltz2
+644,complex_85w.pdb,-49.653,-12.6178,-276.087,6.12369,-282.58110999999997,Scrambled Boltz2,669245-scrambled_boltz2
+645,complex_167w.pdb,-51.3377,-14.9415,-267.203,5.66921,-276.47529,Scrambled Boltz2,669245-scrambled_boltz2
+646,complex_59w.pdb,-54.2382,-10.3799,-197.73,4.05399,-204.05590999999998,Scrambled Boltz2,669245-scrambled_boltz2
+647,complex_86w.pdb,-46.763,-9.70886,-245.613,6.59296,-248.72889999999998,Scrambled Boltz2,669245-scrambled_boltz2
+648,complex_84w.pdb,-38.3692,-14.5902,-272.343,6.23368,-280.69952,Scrambled Boltz2,669245-scrambled_boltz2
+649,complex_136w.pdb,-47.6263,-11.1888,-158.825,4.8357,-165.1781,Scrambled Boltz2,669245-scrambled_boltz2
+650,complex_39w.pdb,-49.0049,-11.8936,-74.551,1.0147,-85.4299,Scrambled Boltz2,669245-scrambled_boltz2
+651,complex_23w.pdb,-45.3478,-6.57754,-87.802,3.56902,-90.81052000000001,Scrambled Boltz2,669245-scrambled_boltz2
+652,complex_91w.pdb,-55.1216,-12.2413,-160.221,5.02303,-167.43927,Scrambled Boltz2,669245-scrambled_boltz2
+653,complex_75w.pdb,-49.6561,-14.2928,-252.444,6.24154,-260.49526000000003,Scrambled Boltz2,669245-scrambled_boltz2
+654,complex_15w.pdb,-45.6347,-17.7661,-164.615,1.86543,-180.51567,Scrambled Boltz2,669245-scrambled_boltz2
+655,complex_170w.pdb,-51.155,-3.216,-316.315,6.45951,-313.07149,Scrambled Boltz2,669245-scrambled_boltz2
+656,complex_64w.pdb,-34.2605,-9.60739,-215.87,3.43348,-222.04391,Scrambled Boltz2,669245-scrambled_boltz2
+657,complex_150w.pdb,-32.3026,-2.7232,-264.081,4.50259,-262.30161000000004,Scrambled Boltz2,669245-scrambled_boltz2
+658,complex_48w.pdb,-45.1429,-12.8924,-230.071,4.27662,-238.68678,Scrambled Boltz2,669245-scrambled_boltz2
+659,complex_122w.pdb,-41.3944,-14.4032,-264.612,5.58009,-273.43511000000007,Scrambled Boltz2,669245-scrambled_boltz2
+660,complex_80w.pdb,-48.1179,-9.23183,-154.256,4.40051,-159.08732,Scrambled Boltz2,669245-scrambled_boltz2
+661,complex_109w.pdb,-40.8412,-13.3836,-173.362,6.12448,-180.62112,Scrambled Boltz2,669245-scrambled_boltz2
+662,complex_79w.pdb,-39.009,-10.3134,-121.62,4.1008,-127.83260000000001,Scrambled Boltz2,669245-scrambled_boltz2
+663,complex_2w.pdb,-38.3982,-6.46602,-280.489,4.42687,-282.52815,Scrambled Boltz2,669245-scrambled_boltz2
+664,complex_8w.pdb,-51.0234,-18.6693,-202.748,4.78347,-216.63383,Scrambled Boltz2,669245-scrambled_boltz2
+665,complex_128w.pdb,-39.1533,-12.1839,-246.263,6.22731,-252.21959000000004,Scrambled Boltz2,669245-scrambled_boltz2
+666,complex_194w.pdb,-49.3168,-9.86071,-139.785,6.03737,-143.60834,Scrambled Boltz2,669245-scrambled_boltz2
+667,complex_105w.pdb,-36.5929,-10.242,-145.994,6.26688,-149.96912,Scrambled Boltz2,669245-scrambled_boltz2
+668,complex_88w.pdb,-45.3312,-14.1678,-167.297,6.38066,-175.08414,Scrambled Boltz2,669245-scrambled_boltz2
+669,complex_135w.pdb,-42.1289,-16.5303,-243.545,6.32902,-253.74627999999996,Scrambled Boltz2,669245-scrambled_boltz2
+670,complex_101w.pdb,-56.4347,-9.96191,-188.611,3.44764,-195.12526999999997,Scrambled Boltz2,669245-scrambled_boltz2
+671,complex_78w.pdb,-31.74,-15.7844,-224.651,6.528,-233.90740000000002,Scrambled Boltz2,669245-scrambled_boltz2
+672,complex_17w.pdb,-48.7785,-9.3112,-290.676,2.65758,-297.32962,Scrambled Boltz2,669245-scrambled_boltz2
+673,complex_55w.pdb,-42.6328,-11.469,-96.394,2.23427,-105.62873,Scrambled Boltz2,669245-scrambled_boltz2
+674,complex_41w.pdb,-54.1992,-10.6883,-288.611,4.10917,-295.19013,Scrambled Boltz2,669245-scrambled_boltz2
+675,complex_40w.pdb,-27.9887,-13.5718,-191.327,5.50068,-199.39812,Scrambled Boltz2,669245-scrambled_boltz2
+676,complex_159w.pdb,-33.0396,-10.4557,-135.117,5.05416,-140.51854,Scrambled Boltz2,669245-scrambled_boltz2
+677,complex_119w.pdb,-41.8345,-20.6841,-162.479,3.89374,-179.26936,Scrambled Boltz2,669245-scrambled_boltz2
+678,complex_145w.pdb,-38.1906,-14.3674,-221.025,3.3653,-232.02710000000002,Scrambled Boltz2,669245-scrambled_boltz2
+679,complex_94w.pdb,-36.802,-14.0696,-109.893,4.67646,-119.28613999999999,Scrambled Boltz2,669245-scrambled_boltz2
+680,complex_67w.pdb,-49.5896,-18.1818,-197.385,4.94002,-210.62678,Scrambled Boltz2,669245-scrambled_boltz2
+681,complex_74w.pdb,-43.9286,-5.37921,-300.482,4.37724,-301.48397000000006,Scrambled Boltz2,669245-scrambled_boltz2
+682,complex_92w.pdb,-40.5916,-5.68617,-418.051,6.60776,-417.12941,Scrambled Boltz2,669245-scrambled_boltz2
+683,complex_52w.pdb,-46.0168,-11.1772,-262.651,4.37671,-269.45149000000004,Scrambled Boltz2,669245-scrambled_boltz2
+684,complex_76w.pdb,-54.3129,-7.77719,-331.296,4.80906,-334.26413,Scrambled Boltz2,669245-scrambled_boltz2
+685,complex_83w.pdb,-58.9418,-3.1843,-304.584,4.715,-303.05330000000004,Scrambled Boltz2,669245-scrambled_boltz2
+686,complex_191w.pdb,-35.3106,-6.46021,-180.471,5.41798,-181.51323,Scrambled Boltz2,669245-scrambled_boltz2
+687,complex_163w.pdb,-37.2898,-16.1909,-159.788,4.70091,-171.27799000000002,Scrambled Boltz2,669245-scrambled_boltz2
+688,complex_120w.pdb,-41.2317,-10.5175,-213.06,3.59566,-219.98184,Scrambled Boltz2,669245-scrambled_boltz2
+689,complex_96w.pdb,-42.5477,-13.5535,-228.488,4.81861,-237.22288999999998,Scrambled Boltz2,669245-scrambled_boltz2
+690,complex_61w.pdb,-34.6493,-13.5998,-103.064,1.39965,-115.26415,Scrambled Boltz2,669245-scrambled_boltz2
+691,complex_106w.pdb,-58.9521,-16.7327,-234.38,4.00973,-247.10297,Scrambled Boltz2,669245-scrambled_boltz2
+692,complex_116w.pdb,-43.9043,-8.52533,-222.44,5.31062,-225.65471,Scrambled Boltz2,669245-scrambled_boltz2
+693,complex_143w.pdb,-47.8919,-12.4199,-210.94,6.80286,-216.55704,Scrambled Boltz2,669245-scrambled_boltz2
+694,complex_156w.pdb,-42.8248,-13.8397,-251.921,7.03649,-258.72420999999997,Scrambled Boltz2,669245-scrambled_boltz2
+695,complex_44w.pdb,-37.6275,-11.9533,-97.6347,3.18367,-106.40432999999999,Scrambled Boltz2,669245-scrambled_boltz2
+696,complex_140w.pdb,-45.1437,-10.4807,-230.142,5.53954,-235.08316000000002,Scrambled Boltz2,669245-scrambled_boltz2
+697,complex_89w.pdb,-71.7971,-9.24311,-281.246,5.6954,-284.79371,Scrambled Boltz2,669245-scrambled_boltz2
+698,complex_110w.pdb,-57.2913,-9.16573,-223.297,4.60697,-227.85576,Scrambled Boltz2,669245-scrambled_boltz2
+699,complex_138w.pdb,-51.0042,-17.4933,-132.714,3.22649,-146.98081,Scrambled Boltz2,669245-scrambled_boltz2
+700,complex_186w.pdb,-43.7871,-8.51306,-151.348,3.90926,-155.95180000000002,Scrambled Boltz2,669245-scrambled_boltz2
+701,complex_107w.pdb,-62.878,-11.0229,-309.306,5.63264,-314.69626,Scrambled Boltz2,669245-scrambled_boltz2
+702,complex_77w.pdb,-41.006,-12.1911,-122.554,3.90472,-130.84038,Scrambled Boltz2,669245-scrambled_boltz2
+703,complex_168w.pdb,-43.0119,-9.33337,-197.158,6.84854,-199.64283,Scrambled Boltz2,669245-scrambled_boltz2
+704,complex_20w.pdb,-42.7673,-16.2036,-204.119,5.16229,-215.16030999999998,Scrambled Boltz2,669245-scrambled_boltz2
+705,complex_161w.pdb,-44.3478,-14.4766,-307.96,4.03258,-318.40402,Scrambled Boltz2,669245-scrambled_boltz2
+706,complex_58w.pdb,-52.6474,-14.52,-237.883,6.13631,-246.26669,Scrambled Boltz2,669245-scrambled_boltz2
+707,complex_32w.pdb,-45.4995,-10.0288,-101.5,3.6506,-107.8782,Scrambled Boltz2,669245-scrambled_boltz2
+708,complex_129w.pdb,-52.1322,-10.5452,-309.699,2.94988,-317.29432,Scrambled Boltz2,669245-scrambled_boltz2
+709,complex_172w.pdb,-34.9975,-15.8539,-251.678,6.33492,-261.19698,Scrambled Boltz2,669245-scrambled_boltz2
+710,complex_164w.pdb,-28.9195,-13.1372,-129.066,4.70646,-137.49674000000002,Scrambled Boltz2,669245-scrambled_boltz2
+711,complex_177w.pdb,-42.0601,-16.2404,-172.609,4.44797,-184.40143,Scrambled Boltz2,669245-scrambled_boltz2
+712,complex_162w.pdb,-51.1625,-8.42218,-185.684,6.40025,-187.70593,Scrambled Boltz2,669245-scrambled_boltz2
+713,complex_27w.pdb,-39.827,-18.658,-145.737,3.45731,-160.93768999999998,Scrambled Boltz2,669245-scrambled_boltz2
+714,complex_71w.pdb,-59.6625,-15.7999,-40.432,2.17398,-54.05792,Scrambled Boltz2,669245-scrambled_boltz2
+715,complex_73w.pdb,-52.7469,-13.9682,-238.777,3.31604,-249.42916,Scrambled Boltz2,669245-scrambled_boltz2
+716,complex_100w.pdb,-54.4293,-3.55754,-290.082,4.87765,-288.76189,Scrambled Boltz2,669245-scrambled_boltz2
+717,complex_45w.pdb,-36.2842,-20.339,-255.925,4.16237,-272.10163,Scrambled Boltz2,669245-scrambled_boltz2
+718,complex_193w.pdb,-27.5307,-13.8681,-101.679,4.27052,-111.27658,Scrambled Boltz2,669245-scrambled_boltz2
+719,complex_93w.pdb,-53.7507,-10.0661,-272.413,4.09406,-278.38504,Scrambled Boltz2,669245-scrambled_boltz2
+720,complex_103w.pdb,-49.4594,-11.0091,-365.06,3.58777,-372.48133,Scrambled Boltz2,669245-scrambled_boltz2
+721,complex_66w.pdb,-42.2078,-15.8929,-198.376,5.55347,-208.71543,Scrambled Boltz2,669245-scrambled_boltz2
+722,complex_187w.pdb,-55.5439,-13.8996,-219.013,6.04956,-226.86304,Scrambled Boltz2,669245-scrambled_boltz2
+723,complex_179w.pdb,-25.2979,-11.7724,-82.7758,1.25544,-93.29276000000002,Scrambled Boltz2,669245-scrambled_boltz2
+724,complex_190w.pdb,-34.2564,-18.5892,-209.024,5.0261,-222.58710000000002,Scrambled Boltz2,669245-scrambled_boltz2
+725,complex_130w.pdb,-51.145,-6.94742,-292.338,5.02247,-294.26295000000005,Scrambled Boltz2,669245-scrambled_boltz2
+726,complex_173w.pdb,-52.18,-6.7908,-300.678,4.34261,-303.12619,Scrambled Boltz2,669245-scrambled_boltz2
+727,complex_42w.pdb,-39.868,-15.7874,-326.339,5.41369,-336.71271,Scrambled Boltz2,669245-scrambled_boltz2
+728,complex_95w.pdb,-38.7829,-17.9811,-162.742,4.49783,-176.22527,Scrambled Boltz2,669245-scrambled_boltz2
+729,complex_47w.pdb,-51.4651,-23.2561,-220.311,5.05998,-238.50712000000001,Scrambled Boltz2,669245-scrambled_boltz2
+730,complex_146w.pdb,-42.0561,-7.3668,-193.4,4.75602,-196.01078,Scrambled Boltz2,669245-scrambled_boltz2
+731,complex_155w.pdb,-37.5317,-14.3383,-213.781,4.65062,-223.46868,Scrambled Boltz2,669245-scrambled_boltz2
+732,complex_175w.pdb,-50.2304,-8.60311,-290.569,3.51216,-295.65995000000004,Scrambled Boltz2,669245-scrambled_boltz2
+733,complex_180w.pdb,-32.7828,-12.6463,-227.472,6.04492,-234.07338000000001,Scrambled Boltz2,669245-scrambled_boltz2
+734,complex_148w.pdb,-39.9322,-5.29303,-277.892,4.74448,-278.44055,Scrambled Boltz2,669245-scrambled_boltz2
+735,complex_108w.pdb,-45.012,-16.7022,-182.747,4.55055,-194.89865000000003,Scrambled Boltz2,669245-scrambled_boltz2
+736,complex_154w.pdb,-43.0186,-12.0209,-293.35,4.80303,-300.56787,Scrambled Boltz2,669245-scrambled_boltz2
+737,complex_171w.pdb,-46.7156,-7.9807,-75.2433,2.95248,-80.27152000000001,Scrambled Boltz2,669245-scrambled_boltz2
+738,complex_151w.pdb,-37.4144,-12.2491,-207.808,5.40085,-214.65625,Scrambled Boltz2,669245-scrambled_boltz2
+739,complex_198w.pdb,-39.6853,-10.7281,-296.753,3.88849,-303.59261,Scrambled Boltz2,669245-scrambled_boltz2
+740,complex_63w.pdb,-56.0545,-3.21103,-279.372,3.12739,-279.45564,Scrambled Boltz2,669245-scrambled_boltz2
+741,complex_115w.pdb,-37.9229,-14.6368,-228.45,3.36408,-239.72271999999998,Scrambled Boltz2,669245-scrambled_boltz2
+742,complex_112w.pdb,-54.0376,-12.8139,-229.705,4.56477,-237.95413,Scrambled Boltz2,669245-scrambled_boltz2
+743,complex_123w.pdb,-39.4637,-14.1224,-148.678,4.24898,-158.55142,Scrambled Boltz2,669245-scrambled_boltz2
+744,complex_157w.pdb,-43.9333,-6.88504,-297.748,4.84182,-299.79122,Scrambled Boltz2,669245-scrambled_boltz2
+745,complex_26w.pdb,-46.9655,-10.48,-305.842,4.39298,-311.92902,Scrambled Boltz2,669245-scrambled_boltz2
+746,complex_90w.pdb,-47.6894,-12.8035,-316.05,3.97818,-324.87532,Scrambled Boltz2,669245-scrambled_boltz2
+747,complex_25w.pdb,-45.9442,-5.33174,-331.18,4.30689,-332.20485,Scrambled Boltz2,669245-scrambled_boltz2
+748,complex_165w.pdb,-42.6011,-13.4024,-172.123,2.44794,-183.07746,Scrambled Boltz2,669245-scrambled_boltz2
+749,complex_97w.pdb,-44.2758,-18.2604,-255.21,5.21568,-268.25471999999996,Scrambled Boltz2,669245-scrambled_boltz2
+750,complex_113w.pdb,-43.9752,-11.1338,-323.24,4.22593,-330.14787,Scrambled Boltz2,669245-scrambled_boltz2
+751,complex_189w.pdb,-39.1293,-12.9862,-181.624,3.00299,-191.60720999999998,Scrambled Boltz2,669245-scrambled_boltz2
+752,complex_147w.pdb,-50.7813,-14.2227,-236.178,5.58015,-244.82055,Scrambled Boltz2,669245-scrambled_boltz2
+753,complex_195w.pdb,-31.1704,-12.7372,-182.96,4.41271,-191.28449,Scrambled Boltz2,669245-scrambled_boltz2
+754,complex_132w.pdb,-49.8992,-12.1648,-210.614,5.21578,-217.56302,Scrambled Boltz2,669245-scrambled_boltz2
+755,complex_181w.pdb,-33.7982,-12.1598,-270.799,3.83969,-279.11911,Scrambled Boltz2,669245-scrambled_boltz2
+756,complex_178w.pdb,-33.652,-16.6383,-175.775,5.66745,-186.74585,Scrambled Boltz2,669245-scrambled_boltz2
+757,complex_65w.pdb,-51.8137,-8.96012,-324.63,4.67267,-328.91745000000003,Scrambled Boltz2,669245-scrambled_boltz2
+758,complex_87w.pdb,-36.9744,-10.549,-272.199,3.84825,-278.89975,Scrambled Boltz2,669245-scrambled_boltz2
+759,complex_22w.pdb,-28.4951,-0.811098,-296.73,3.02986,-294.51123800000005,Scrambled Boltz2,669245-scrambled_boltz2
+760,complex_149w.pdb,-49.078,-13.7986,-298.468,4.35217,-307.91443000000004,Scrambled Boltz2,669245-scrambled_boltz2
+761,complex_200w.pdb,-41.5895,-3.44294,-298.739,5.68951,-296.49243,Scrambled Boltz2,669245-scrambled_boltz2
+762,complex_111w.pdb,-38.3305,-15.7041,-131.552,3.31045,-143.94565,Scrambled Boltz2,669245-scrambled_boltz2
+763,complex_102w.pdb,-38.2781,-9.43179,-91.8007,3.24495,-97.98754000000001,Scrambled Boltz2,669245-scrambled_boltz2
+764,complex_139w.pdb,-51.5617,-6.70877,-270.445,4.3289,-272.82487000000003,Scrambled Boltz2,669245-scrambled_boltz2
+765,complex_192w.pdb,-25.6446,-12.1847,-164.87,3.43789,-173.61681,Scrambled Boltz2,669245-scrambled_boltz2
+766,complex_197w.pdb,-36.0619,-13.9038,-286.735,4.75733,-295.88147,Scrambled Boltz2,669245-scrambled_boltz2
+767,complex_169w.pdb,-42.8844,-13.4413,-276.058,4.46723,-285.03207000000003,Scrambled Boltz2,669245-scrambled_boltz2
+768,complex_114w.pdb,-21.5974,-11.6434,-146.048,4.63656,-153.05483999999998,Scrambled Boltz2,669245-scrambled_boltz2
+769,complex_29w.pdb,-39.609,-8.79699,-330.916,4.11362,-335.59936999999996,Scrambled Boltz2,669245-scrambled_boltz2
+770,complex_184w.pdb,-42.707,-8.49316,-242.63,4.14504,-246.97812,Scrambled Boltz2,669245-scrambled_boltz2
+771,complex_196w.pdb,-39.2796,-10.3638,-156.791,5.59976,-161.55504,Scrambled Boltz2,669245-scrambled_boltz2
+772,complex_182w.pdb,-25.3198,-12.7451,-137.343,5.04233,-145.04577,Scrambled Boltz2,669245-scrambled_boltz2
+773,complex_125w.pdb,-42.4036,-10.6792,-277.541,3.56934,-284.65085999999997,Scrambled Boltz2,669245-scrambled_boltz2
+774,complex_174w.pdb,-27.2534,-12.0734,-122.056,3.13268,-130.99672,Scrambled Boltz2,669245-scrambled_boltz2
+775,complex_104w.pdb,-44.6919,-13.0178,-231.97,5.41619,-239.57161,Scrambled Boltz2,669245-scrambled_boltz2
+776,complex_72w.pdb,-26.1631,-15.3645,-69.6208,2.85513,-82.13016999999999,Scrambled Boltz2,669245-scrambled_boltz2
+777,complex_121w.pdb,-45.4329,-9.39505,-217.877,5.21822,-222.05383,Scrambled Boltz2,669245-scrambled_boltz2
+778,complex_70w.pdb,-36.2513,-8.63034,-254.047,3.06584,-259.61150000000004,Scrambled Boltz2,669245-scrambled_boltz2
+779,complex_188w.pdb,-43.3356,-9.32116,-309.785,4.30865,-314.79751000000005,Scrambled Boltz2,669245-scrambled_boltz2
+780,complex_133w.pdb,-40.1479,-15.5123,-263.72,4.79919,-274.43311,Scrambled Boltz2,669245-scrambled_boltz2
+781,complex_137w.pdb,-38.8318,-14.3791,-282.682,3.95913,-293.10197,Scrambled Boltz2,669245-scrambled_boltz2
+782,complex_153w.pdb,-34.2758,-12.6033,-244.668,5.19079,-252.08051,Scrambled Boltz2,669245-scrambled_boltz2
+783,complex_166w.pdb,-41.4112,-14.1667,-242.96,6.18276,-250.94394000000003,Scrambled Boltz2,669245-scrambled_boltz2
+784,complex_199w.pdb,-37.0527,-16.5772,-187.464,4.22154,-199.81966,Scrambled Boltz2,669245-scrambled_boltz2
+785,complex_176w.pdb,-42.4629,-9.28664,-301.564,3.79767,-307.05297,Scrambled Boltz2,669245-scrambled_boltz2
+786,complex_185w.pdb,-38.5889,-13.4458,-293.135,3.46733,-303.11347,Scrambled Boltz2,669245-scrambled_boltz2
+787,complex_124w.pdb,-52.2315,-20.4691,-157.651,3.99964,-174.12046,Scrambled Boltz2,669245-scrambled_boltz2
+788,complex_183w.pdb,-28.1431,3.80391,-266.875,1.91616,-261.15493000000004,Scrambled Boltz2,669245-scrambled_boltz2
+789,complex_126w.pdb,-38.4738,-1.76091,-344.906,4.8225,-341.84441000000004,Scrambled Boltz2,669245-scrambled_boltz2
+790,complex_160w.pdb,-46.3342,-19.9599,-295.086,3.98575,-311.06015,Scrambled Boltz2,669245-scrambled_boltz2

@@ -6,26 +6,27 @@ Uses PyMOL's built-in nucleic acid representation modes
 
 from pymol import cmd, stored
 
-# meridian_green
-def beautify_dna_ligand(dna_color="brick_red"):
+def beautify_dna_ligand(dna_color="scr_th_apt"):
     """
     Create publication-quality DNA-ligand visualization
 
     Args:
-        dna_color (str): "light_purple", "brick_red", "ruddy_orange", "meridian_green"
+        dna_color (str): "th_apt" (#C0392B), "apt" (#21618C),
+                         "mm_th_apt" (#9271B9, 4 MM-TH-Apt),
+                         "scr_th_apt" (#BB782C)
     """
     print("🧬✨ PUBLICATION-STANDARD DNA-LIGAND VISUALIZATION")
     print("=" * 60)
 
-    # Define custom colors in PyMOL
-    cmd.set_color("light_purple", [0.694, 0.612, 0.851])
-    cmd.set_color("brick_red", [0.698, 0.133, 0.133])
-    cmd.set_color("ruddy_orange", [1.0, 0.388, 0.278])
-    cmd.set_color("meridian_green", [0.133, 0.545, 0.133])
+    # Define custom colors in PyMOL (hex -> normalized RGB)
+    cmd.set_color("th_apt",     [0.7529, 0.2235, 0.1686])  # #C0392B  TH-Apt
+    cmd.set_color("apt",        [0.1294, 0.3804, 0.5490])  # #21618C  Apt
+    cmd.set_color("mm_th_apt",  [0.5725, 0.4431, 0.7255])  # #9271B9  4 MM-TH-Apt
+    cmd.set_color("scr_th_apt", [0.7333, 0.4706, 0.1725])  # #BB782C  Scr-TH-Apt
 
-    valid_colors = ["light_purple", "brick_red", "ruddy_orange", "meridian_green"]
+    valid_colors = ["th_apt", "apt", "mm_th_apt", "scr_th_apt"]
     if dna_color not in valid_colors:
-        dna_color = "light_purple"
+        dna_color = "th_apt"
 
     print(f"🎨 Using DNA color: {dna_color}")
 
@@ -284,7 +285,7 @@ except Exception as e:
 print("\n🚀 Publication-Standard DNA Visualization Loaded!")
 print("\n⌨️ Visualization Commands:")
 print("  beautify()              - Publication-quality DNA + ligand")
-print("  beautify('brick_red')   - With different DNA color")
+print("  beautify('apt')         - With different DNA color (th_apt/apt/mm_th_apt/scr_th_apt)")
 print("  dna_simple()            - Simple DNA tube")
 print("  dna_ladder()            - DNA with base pair ladder")
 print("  dna_plates()            - DNA with base plates (standard)")
@@ -298,7 +299,7 @@ print("  take_picture('name')    - Custom picture with filename")
 
 print("\n🎯 Applying publication-standard visualization...")
 try:
-    beautify_dna_ligand(dna_color="brick_red")
+    beautify_dna_ligand(dna_color="scr_th_apt")
 except Exception as e:
     print(f"❌ Auto-beautify error: {e}")
     print("💡 Try running: beautify() manually")
